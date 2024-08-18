@@ -1,24 +1,38 @@
 <img src="https://centaur-wp.s3.eu-central-1.amazonaws.com/designweek/prod/content/uploads/2019/10/22133925/Featured-image1.jpg" alt="Olympic logo" width="250" />
 
-# Project in maths modelling: Predict the 5000m sprint winner of the oncomming 2024 Paris Olympic games.
+# Project in Maths Modelling: Predict the 5000m race winner of the 2024 Paris Olympic games.
 Author: Lea Sauer & Agathe Vianey-Liaud
 
 ## Basic overview
-Aim : Prediction of the 5000m men’s sprint results in the Olympics 2024
+<b>Aim : Prediction of the 5000m men’s race results in the Olympics 2024</b>
+
+We are proposing two separate approaches to compare their predictive performance:
+   1. A sentiment based ranking extracted from Tweets before the race
+   2. Using race related features in an AI model athletes score (time and position)
+
+## Datasets / Web Scrapping
+* Tweets
+* Race results
 
 
 ## Project stucture
-### Part1: Tweets analysis
+<h3><img src="https://img.freepik.com/vektoren-kostenlos/neues-twitter-logo-x-icon-design-2023_1017-45418.jpg?w=740" alt="X Logo" width="24" height="24"> Part 1: Sentiment analysis of the Tweets</h3>
+
 * Data collection
 * Data processing
 * ...
 
-### Part2: Feature analysis - past performances + simulated features
+<h3><span style="font-size: 24px;">&#128200;</span> Part 2: Feature analysis - past performances + simulated features</h3>
+
 * Data collection
 * Data processing
 * Data simulation - Monte Carlo technique
 * Data analysis and vizualisation
 * Prediction
+
+
+
+
 
 ## Set up
 ### Installation
