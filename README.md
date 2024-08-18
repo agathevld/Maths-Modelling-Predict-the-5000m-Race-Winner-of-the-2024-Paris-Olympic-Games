@@ -1,3 +1,5 @@
+<img src="https://centaur-wp.s3.eu-central-1.amazonaws.com/designweek/prod/content/uploads/2019/10/22133925/Featured-image1.jpg" alt="Olympic logo" width="250" />
+
 # Project in maths modelling: Predict the 5000m sprint winner of the oncomming 2024 Paris Olympic games.
 Author: Lea Sauer & Agathe Vianey-Liaud
 
