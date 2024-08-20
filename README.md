@@ -95,12 +95,12 @@ requirements.txt   # List of dependencies needed to run the project.
 
 ## Model and Analysis
 
-### Part 1: Sentiment Analysis of Tweets
+<h3><img src="https://img.freepik.com/vektoren-kostenlos/neues-twitter-logo-x-icon-design-2023_1017-45418.jpg?w=740" alt="X Logo" width="24" height="24"> Part 1: Sentiment analysis of the Tweets</h3>
 
 - **Data Collection**: Tweets were collected before the race using the athletes' names as keywords.
 - **Data Processing**: Sentiment analysis was conducted using the `nlptown/bert-base-multilingual-uncased-sentiment` model, classifying tweets into five sentiment categories.
 
-### Part 2: Feature Analysis - Past Performances + Simulated Features
+<h3><span style="font-size: 24px;">&#128200;</span> Part 2: Feature analysis - past performances + simulated features</h3>
 
 - **Data Collection**: Historical data of top athletes' performances was combined with simulated race features.
 - **Data Simulation**: Monte Carlo techniques were employed to simulate variables like crowd cheering effect.
