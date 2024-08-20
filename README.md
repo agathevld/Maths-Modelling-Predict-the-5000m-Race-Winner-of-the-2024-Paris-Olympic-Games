@@ -139,13 +139,9 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 For inquiries or collaboration, please reach out to:
 
-- **Lea Sauer**: [Email Address]
-- **Agathe Vianey-Liaud**: [Email Address]
+- **Lea Sauer**: lea.sauer@ucdconnect.ie
+- **Agathe Vianey-Liaud**: agathe.vianey-liaud@ucdconnect.ie
 
 ## Acknowledgements
 
-We would like to thank [University College Dublin] and our mentors for their support and guidance throughout this project.
-
----
-
-This version maintains the correct syntax highlighting for any code snippets or commands.
+We would like to thank University College Dublin and our mentors for their support and guidance throughout this project.
