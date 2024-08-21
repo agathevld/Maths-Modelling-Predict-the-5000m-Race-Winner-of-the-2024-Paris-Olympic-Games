@@ -144,4 +144,4 @@ For inquiries or collaboration, please reach out to:
 
 ## Acknowledgements
 
-We would like to thank University College Dublin and our mentors for their support and guidance throughout this project.
+We would like to thank University College Dublin and specifically our professor Dr Sarp Akcay for his support and guidance throughout this project.
