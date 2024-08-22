@@ -64,18 +64,19 @@ requirements.txt   # List of dependencies needed to run the project.
 
 ### Running the Project
 
-1. **Web Scraping Tweets**:
+#### Part 1
+**Web Scraping Tweets**:
    ```ruby
-   python scripts/scrape_tweets.py
+   python /Users/agathevianeyliaud/Desktop/UCD/Summer/Project/Project_maths_modelling/Sans titre/Web scrapping/Web Scrape Tweets.ipynb
+   python Web scrapping/Web Scrape race results.ipynb
    ```
 
-2. **Training the AI Model**:
-   ```ruby
-   python scripts/train_model.py
-   ```
+**Jupyter Notebook**:
+Load the Jupyter notebook in `/Part1/Sentiment analysis.ipynb` to do the sentiment analyse and analyse the results.
 
-3. **Analyzing the Results**:
-   Load the Jupyter notebooks in `/notebooks/` to explore the data and model outcomes.
+#### Part 2
+**Jupyter Notebook**:
+Load the Jupyter notebook in `/Part2/code/UCD_Project-part2.ipynb` to do the webscraping, train the AI models and analyse the data and model outcomes.
 
 ## Datasets
 
@@ -115,7 +116,7 @@ requirements.txt   # List of dependencies needed to run the project.
 
 ### Visualizations
 
-- Sentiment distribution and correlation matrices are available in the `/notebooks/` folder.
+- Sentiment distribution and correlation matrices are available in the `/Part1/Visualizations` folder.
 - Model performance metrics and residual plots are also included.
 
 ## Contribution Guidelines
