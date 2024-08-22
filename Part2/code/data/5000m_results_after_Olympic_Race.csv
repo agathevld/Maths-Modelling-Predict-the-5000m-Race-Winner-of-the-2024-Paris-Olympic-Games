@@ -87,6 +87,7 @@ Hagos GEBRHIWET,ETH,1250,10 JUN 2021,"Stadio Luigi Ridolfi, Firenze (ITA)",
 Hagos GEBRHIWET,ETH,1276,21 JUL 2023,"Stade Louis II, Monaco (MON)",
 Hagos GEBRHIWET,ETH,1296,30 MAY 2024,"Bislett Stadion, Oslo (NOR)",
 Hagos GEBRHIWET,ETH,,20 AUG 2016,"Estádio Olímpico, Rio de Janeiro (BRA)",3.
+Hagos GEBRHIWET,ETH,,10 AUG 2024,"Stade de France, Paris (FRA)",5.
 Hagos GEBRHIWET,ETH,,16 AUG 2013,"Luzhniki Stadion, Moskva (RUS)",2.
 Hagos GEBRHIWET,ETH,,29 AUG 2015,"National Stadium, Beijing (CHN)",3.
 Hagos GEBRHIWET,ETH,,27 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",6.
@@ -102,6 +103,10 @@ Hagos GEBRHIWET,ETH,,25 MAY 2013,"Icahn Stadium, New York, NY (USA)",1.
 Hagos GEBRHIWET,ETH,,19 MAY 2012,"Shanghai Stadium, Shanghai (CHN)",1.
 Hagos GEBRHIWET,ETH,1074,22 MAR 2024,"University of Ghana Sports Stadium, Accra (GHA)",1.
 Hagos GEBRHIWET,ETH,1296,30 MAY 2024,"Bislett Stadion, Oslo (NOR)",1.
+Hagos GEBRHIWET,ETH,972,07 AUG 2024,"Stade de France, Paris (FRA)",2.
+Hagos GEBRHIWET,ETH,1154,10 AUG 2024,"Stade de France, Paris (FRA)",5.
+Hagos GEBRHIWET,ETH,,10 AUG 2024,"Stade de France, Paris (FRA)",5.
+Hagos GEBRHIWET,ETH,,07 AUG 2024,"Stade de France, Paris (FRA)",11.
 Hagos GEBRHIWET,ETH,,20 AUG 2016,"Estádio Olímpico, Rio de Janeiro (BRA)",3.
 Hagos GEBRHIWET,ETH,,17 AUG 2016,"Estádio Olímpico, Rio de Janeiro (BRA)",1.
 Hagos GEBRHIWET,ETH,,11 AUG 2012,"Olympic Stadium, London (GBR)",11.
@@ -115,6 +120,8 @@ Hagos GEBRHIWET,ETH,,16 AUG 2013,"Luzhniki Stadion, Moskva (RUS)",2.
 Hagos GEBRHIWET,ETH,,13 AUG 2013,"Luzhniki Stadion, Moskva (RUS)",1.
 Hagos GEBRHIWET,ETH,,22 MAR 2024,"University of Ghana Sports Stadium, Accra (GHA)",1.
 Hagos GEBRHIWET,ETH,,14 AUG 2014,"Le Grand Stade, Marrakech (MAR)",
+Hagos GEBRHIWET,ETH,,10 AUG 2024,"Stade de France, Paris (FRA)",5.
+Hagos GEBRHIWET,ETH,,07 AUG 2024,"Stade de France, Paris (FRA)",11.
 Hagos GEBRHIWET,ETH,,20 AUG 2016,"Estádio Olímpico, Rio de Janeiro (BRA)",3.
 Hagos GEBRHIWET,ETH,,17 AUG 2016,"Estádio Olímpico, Rio de Janeiro (BRA)",1.
 Hagos GEBRHIWET,ETH,,11 AUG 2012,"Olympic Stadium, London (GBR)",11.
@@ -142,6 +149,7 @@ Hagos GEBRHIWET,ETH,,,,
 Hagos GEBRHIWET,ETH,,,,
 Hagos GEBRHIWET,ETH,,,,
 Hagos GEBRHIWET,ETH,,20 AUG 2016,"Estádio Olímpico, Rio de Janeiro (BRA)",3.
+Hagos GEBRHIWET,ETH,,10 AUG 2024,"Stade de France, Paris (FRA)",5.
 Hagos GEBRHIWET,ETH,,16 AUG 2013,"Luzhniki Stadion, Moskva (RUS)",2.
 Hagos GEBRHIWET,ETH,,29 AUG 2015,"National Stadium, Beijing (CHN)",3.
 Hagos GEBRHIWET,ETH,,27 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",6.
@@ -155,6 +163,8 @@ Hagos GEBRHIWET,ETH,,09 JUN 2016,"Bislett Stadion, Oslo (NOR)",1.
 Hagos GEBRHIWET,ETH,,11 JUL 2014,"Hampden Park, Glasgow (GBR)",1.
 Hagos GEBRHIWET,ETH,,25 MAY 2013,"Icahn Stadium, New York, NY (USA)",1.
 Hagos GEBRHIWET,ETH,,19 MAY 2012,"Shanghai Stadium, Shanghai (CHN)",1.
+Hagos GEBRHIWET,ETH,,,,
+Hagos GEBRHIWET,ETH,,,,
 Hagos GEBRHIWET,ETH,,,,
 Hagos GEBRHIWET,ETH,,,,
 Berihu AREGAWI,ETH,1282,30 JUN 2023,"Stade Olympique de la Pontaise, Lausanne (SUI)",
@@ -226,7 +236,7 @@ Telahun Haile BEKELE,ETH,,,,
 Telahun Haile BEKELE,ETH,,,,
 Telahun Haile BEKELE,ETH,,,,
 Jakob INGEBRIGTSEN,NOR,1252,10 JUN 2021,"Stadio Luigi Ridolfi, Firenze (ITA)",
-Jakob INGEBRIGTSEN,NOR,1158,29 JUN 2024,"Sandnes Stadion, Sandnes (NOR)",
+Jakob INGEBRIGTSEN,NOR,1160,10 AUG 2024,"Stade de France, Paris (FRA)",
 Jakob INGEBRIGTSEN,NOR,875,07 AUG 2016,Brandbu (NOR),
 Jakob INGEBRIGTSEN,NOR,1082,25 AUG 2017,Sandnes (NOR),
 Jakob INGEBRIGTSEN,NOR,1148,11 AUG 2018,"Olympiastadion, Berlin (GER)",
@@ -234,7 +244,8 @@ Jakob INGEBRIGTSEN,NOR,1202,20 JUL 2019,"Olympic Stadium, London (GBR)",
 Jakob INGEBRIGTSEN,NOR,1252,10 JUN 2021,"Stadio Luigi Ridolfi, Firenze (ITA)",
 Jakob INGEBRIGTSEN,NOR,1202,06 MAY 2022,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",
 Jakob INGEBRIGTSEN,NOR,1169,27 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",
-Jakob INGEBRIGTSEN,NOR,1158,29 JUN 2024,"Sandnes Stadion, Sandnes (NOR)",
+Jakob INGEBRIGTSEN,NOR,1160,10 AUG 2024,"Stade de France, Paris (FRA)",
+Jakob INGEBRIGTSEN,NOR,,10 AUG 2024,"Stade de France, Paris (FRA)",1.
 Jakob INGEBRIGTSEN,NOR,,27 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",1.
 Jakob INGEBRIGTSEN,NOR,,24 JUL 2022,"Hayward Field, Eugene, OR (USA)",1.
 Jakob INGEBRIGTSEN,NOR,,30 SEP 2019,"Khalifa International Stadium, Doha (QAT)",5.
@@ -248,6 +259,10 @@ Jakob INGEBRIGTSEN,NOR,,29 JUN 2024,"Sandnes Stadion, Sandnes (NOR)",1.
 Jakob INGEBRIGTSEN,NOR,,25 AUG 2017,Sandnes (NOR),1.
 Jakob INGEBRIGTSEN,NOR,1137,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",1.
 Jakob INGEBRIGTSEN,NOR,1158,29 JUN 2024,"Sandnes Stadion, Sandnes (NOR)",1.
+Jakob INGEBRIGTSEN,NOR,1028,07 AUG 2024,"Stade de France, Paris (FRA)",1.
+Jakob INGEBRIGTSEN,NOR,1160,10 AUG 2024,"Stade de France, Paris (FRA)",1.
+Jakob INGEBRIGTSEN,NOR,,10 AUG 2024,"Stade de France, Paris (FRA)",1.
+Jakob INGEBRIGTSEN,NOR,,07 AUG 2024,"Stade de France, Paris (FRA)",1.
 Jakob INGEBRIGTSEN,NOR,,27 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",1.
 Jakob INGEBRIGTSEN,NOR,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",11.
 Jakob INGEBRIGTSEN,NOR,,24 JUL 2022,"Hayward Field, Eugene, OR (USA)",1.
@@ -259,6 +274,8 @@ Jakob INGEBRIGTSEN,NOR,,16 AUG 2022,"Olympiastadion, München (GER)",1.
 Jakob INGEBRIGTSEN,NOR,,11 AUG 2018,"Olympiastadion, Berlin (GER)",1.
 Jakob INGEBRIGTSEN,NOR,,14 JUL 2018,"Ratinan Stadion, Tampere (FIN)",3.
 Jakob INGEBRIGTSEN,NOR,,22 JUL 2017,"Stadio Zecchini, Grosseto (ITA)",1.
+Jakob INGEBRIGTSEN,NOR,,10 AUG 2024,"Stade de France, Paris (FRA)",1.
+Jakob INGEBRIGTSEN,NOR,,07 AUG 2024,"Stade de France, Paris (FRA)",1.
 Jakob INGEBRIGTSEN,NOR,,27 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",1.
 Jakob INGEBRIGTSEN,NOR,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",11.
 Jakob INGEBRIGTSEN,NOR,,24 JUL 2022,"Hayward Field, Eugene, OR (USA)",1.
@@ -271,7 +288,7 @@ Jakob INGEBRIGTSEN,NOR,,11 AUG 2018,"Olympiastadion, Berlin (GER)",1.
 Jakob INGEBRIGTSEN,NOR,,14 JUL 2018,"Ratinan Stadion, Tampere (FIN)",3.
 Jakob INGEBRIGTSEN,NOR,,22 JUL 2017,"Stadio Zecchini, Grosseto (ITA)",1.
 Jakob INGEBRIGTSEN,NOR,1252,10 JUN 2021,"Stadio Luigi Ridolfi, Firenze (ITA)",
-Jakob INGEBRIGTSEN,NOR,1158,29 JUN 2024,"Sandnes Stadion, Sandnes (NOR)",
+Jakob INGEBRIGTSEN,NOR,1160,10 AUG 2024,"Stade de France, Paris (FRA)",
 Jakob INGEBRIGTSEN,NOR,,,,
 Jakob INGEBRIGTSEN,NOR,,,,
 Jakob INGEBRIGTSEN,NOR,,,,
@@ -280,6 +297,7 @@ Jakob INGEBRIGTSEN,NOR,,,,
 Jakob INGEBRIGTSEN,NOR,,,,
 Jakob INGEBRIGTSEN,NOR,,,,
 Jakob INGEBRIGTSEN,NOR,,,,
+Jakob INGEBRIGTSEN,NOR,,10 AUG 2024,"Stade de France, Paris (FRA)",1.
 Jakob INGEBRIGTSEN,NOR,,27 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",1.
 Jakob INGEBRIGTSEN,NOR,,24 JUL 2022,"Hayward Field, Eugene, OR (USA)",1.
 Jakob INGEBRIGTSEN,NOR,,30 SEP 2019,"Khalifa International Stadium, Doha (QAT)",5.
@@ -291,6 +309,8 @@ Jakob INGEBRIGTSEN,NOR,,10 JUN 2021,"Stadio Luigi Ridolfi, Firenze (ITA)",1.
 Jakob INGEBRIGTSEN,NOR,,22 JUL 2017,"Stadio Zecchini, Grosseto (ITA)",1.
 Jakob INGEBRIGTSEN,NOR,,29 JUN 2024,"Sandnes Stadion, Sandnes (NOR)",1.
 Jakob INGEBRIGTSEN,NOR,,25 AUG 2017,Sandnes (NOR),1.
+Jakob INGEBRIGTSEN,NOR,,,,
+Jakob INGEBRIGTSEN,NOR,,,,
 Jakob INGEBRIGTSEN,NOR,,,,
 Jakob INGEBRIGTSEN,NOR,,,,
 Jacob KIPLIMO,UGA,1280,30 MAY 2024,"Bislett Stadion, Oslo (NOR)",
@@ -414,6 +434,7 @@ Grant FISHER,USA,1230,31 AUG 2023,"Letzigrund, Zürich (SUI)",
 Grant FISHER,USA,1294,16 FEB 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
 Grant FISHER,USA,1287,12 FEB 2022,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
 Grant FISHER,USA,1294,16 FEB 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
+Grant FISHER,USA,,10 AUG 2024,"Stade de France, Paris (FRA)",3.
 Grant FISHER,USA,,24 JUL 2022,"Hayward Field, Eugene, OR (USA)",6.
 Grant FISHER,USA,,30 JUN 2024,"Hayward Field, Eugene, OR (USA)",1.
 Grant FISHER,USA,,26 JUN 2022,"Hayward Field, Eugene, OR (USA)",1.
@@ -421,11 +442,17 @@ Grant FISHER,USA,,09 JUN 2017,"Eugene, OR (USA)",1.
 Grant FISHER,USA,1234,17 MAY 2024,"Drake Stadium, Los Angeles, CA (USA)",5.
 Grant FISHER,USA,1120,27 JUN 2024,"Hayward Field, Eugene, OR (USA)",3.
 Grant FISHER,USA,1177,30 JUN 2024,"Hayward Field, Eugene, OR (USA)",1.
+Grant FISHER,USA,1025,07 AUG 2024,"Stade de France, Paris (FRA)",4.
+Grant FISHER,USA,1155,10 AUG 2024,"Stade de France, Paris (FRA)",3.
 Grant FISHER,USA,1294,16 FEB 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",1.
+Grant FISHER,USA,,10 AUG 2024,"Stade de France, Paris (FRA)",3.
+Grant FISHER,USA,,07 AUG 2024,"Stade de France, Paris (FRA)",4.
 Grant FISHER,USA,,06 AUG 2021,"National Stadium, Tokyo (JPN)",9.
 Grant FISHER,USA,,03 AUG 2021,"National Stadium, Tokyo (JPN)",8.
 Grant FISHER,USA,,24 JUL 2022,"Hayward Field, Eugene, OR (USA)",6.
 Grant FISHER,USA,,21 JUL 2022,"Hayward Field, Eugene, OR (USA)",10.
+Grant FISHER,USA,,10 AUG 2024,"Stade de France, Paris (FRA)",3.
+Grant FISHER,USA,,07 AUG 2024,"Stade de France, Paris (FRA)",4.
 Grant FISHER,USA,,06 AUG 2021,"National Stadium, Tokyo (JPN)",9.
 Grant FISHER,USA,,03 AUG 2021,"National Stadium, Tokyo (JPN)",8.
 Grant FISHER,USA,,24 JUL 2022,"Hayward Field, Eugene, OR (USA)",6.
@@ -445,10 +472,13 @@ Grant FISHER,USA,,,,
 Grant FISHER,USA,,,,
 Grant FISHER,USA,,,,
 Grant FISHER,USA,,,,
+Grant FISHER,USA,,10 AUG 2024,"Stade de France, Paris (FRA)",3.
 Grant FISHER,USA,,24 JUL 2022,"Hayward Field, Eugene, OR (USA)",6.
 Grant FISHER,USA,,30 JUN 2024,"Hayward Field, Eugene, OR (USA)",1.
 Grant FISHER,USA,,26 JUN 2022,"Hayward Field, Eugene, OR (USA)",1.
 Grant FISHER,USA,,09 JUN 2017,"Eugene, OR (USA)",1.
+Grant FISHER,USA,,,,
+Grant FISHER,USA,,,,
 Grant FISHER,USA,,,,
 Grant FISHER,USA,,,,
 Grant FISHER,USA,,,,
@@ -471,12 +501,15 @@ Luis GRIJALVA,GUA,,24 JUL 2022,"Hayward Field, Eugene, OR (USA)",4.
 Luis GRIJALVA,GUA,1133,12 APR 2024,"Cougar Athletic Stadium, Azusa, CA (USA)",2.
 Luis GRIJALVA,GUA,1150,11 MAY 2024,"Jack Kemp Stadium, Los Angeles, CA (USA)",1.
 Luis GRIJALVA,GUA,1244,30 MAY 2024,"Bislett Stadion, Oslo (NOR)",6.
+Luis GRIJALVA,GUA,1004,07 AUG 2024,"Stade de France, Paris (FRA)",16.
+Luis GRIJALVA,GUA,,07 AUG 2024,"Stade de France, Paris (FRA)",29.
 Luis GRIJALVA,GUA,,06 AUG 2021,"National Stadium, Tokyo (JPN)",12.
 Luis GRIJALVA,GUA,,03 AUG 2021,"National Stadium, Tokyo (JPN)",10.
 Luis GRIJALVA,GUA,,27 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",4.
 Luis GRIJALVA,GUA,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",1.
 Luis GRIJALVA,GUA,,24 JUL 2022,"Hayward Field, Eugene, OR (USA)",4.
 Luis GRIJALVA,GUA,,21 JUL 2022,"Hayward Field, Eugene, OR (USA)",3.
+Luis GRIJALVA,GUA,,07 AUG 2024,"Stade de France, Paris (FRA)",29.
 Luis GRIJALVA,GUA,,06 AUG 2021,"National Stadium, Tokyo (JPN)",12.
 Luis GRIJALVA,GUA,,03 AUG 2021,"National Stadium, Tokyo (JPN)",10.
 Luis GRIJALVA,GUA,,27 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",4.
@@ -498,6 +531,7 @@ Luis GRIJALVA,GUA,,,,
 Luis GRIJALVA,GUA,,,,
 Luis GRIJALVA,GUA,,27 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",4.
 Luis GRIJALVA,GUA,,24 JUL 2022,"Hayward Field, Eugene, OR (USA)",4.
+Luis GRIJALVA,GUA,,,,
 Luis GRIJALVA,GUA,,,,
 Luis GRIJALVA,GUA,,,,
 Luis GRIJALVA,GUA,,,,
@@ -574,10 +608,17 @@ Dominic Lokinyomo LOBALU,SUI,1088,29 JUN 2021,"Stadion Allmend, Luzern (SUI)",
 Dominic Lokinyomo LOBALU,SUI,1239,02 SEP 2022,"Boudewijnstadion, Bruxelles (BEL)",
 Dominic Lokinyomo LOBALU,SUI,1184,31 AUG 2023,"Letzigrund, Zürich (SUI)",
 Dominic Lokinyomo LOBALU,SUI,1243,30 MAY 2024,"Bislett Stadion, Oslo (NOR)",
+Dominic Lokinyomo LOBALU,SUI,,10 AUG 2024,"Stade de France, Paris (FRA)",4.
 Dominic Lokinyomo LOBALU,SUI,,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",3.
 Dominic Lokinyomo LOBALU,SUI,1243,30 MAY 2024,"Bislett Stadion, Oslo (NOR)",7.
 Dominic Lokinyomo LOBALU,SUI,1132,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",3.
+Dominic Lokinyomo LOBALU,SUI,949,07 AUG 2024,"Stade de France, Paris (FRA)",15.
+Dominic Lokinyomo LOBALU,SUI,1154,10 AUG 2024,"Stade de France, Paris (FRA)",4.
+Dominic Lokinyomo LOBALU,SUI,,10 AUG 2024,"Stade de France, Paris (FRA)",4.
+Dominic Lokinyomo LOBALU,SUI,,07 AUG 2024,"Stade de France, Paris (FRA)",19.
 Dominic Lokinyomo LOBALU,SUI,,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",3.
+Dominic Lokinyomo LOBALU,SUI,,10 AUG 2024,"Stade de France, Paris (FRA)",4.
+Dominic Lokinyomo LOBALU,SUI,,07 AUG 2024,"Stade de France, Paris (FRA)",19.
 Dominic Lokinyomo LOBALU,SUI,,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",3.
 Dominic Lokinyomo LOBALU,SUI,1243,30 MAY 2024,"Bislett Stadion, Oslo (NOR)",
 Dominic Lokinyomo LOBALU,SUI,1243,30 MAY 2024,"Bislett Stadion, Oslo (NOR)",
@@ -586,16 +627,29 @@ Dominic Lokinyomo LOBALU,SUI,,,,
 Dominic Lokinyomo LOBALU,SUI,,,,
 Dominic Lokinyomo LOBALU,SUI,,,,
 Dominic Lokinyomo LOBALU,SUI,,,,
+Dominic Lokinyomo LOBALU,SUI,,10 AUG 2024,"Stade de France, Paris (FRA)",4.
 Dominic Lokinyomo LOBALU,SUI,,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",3.
 Dominic Lokinyomo LOBALU,SUI,,,,
 Dominic Lokinyomo LOBALU,SUI,,,,
+Dominic Lokinyomo LOBALU,SUI,,,,
+Dominic Lokinyomo LOBALU,SUI,,,,
 Biniam MEHARY,ETH,1231,17 MAY 2024,"Drake Stadium, Los Angeles, CA (USA)",
 Biniam MEHARY,ETH,1231,17 MAY 2024,"Drake Stadium, Los Angeles, CA (USA)",
 Biniam MEHARY,ETH,1231,17 MAY 2024,"Drake Stadium, Los Angeles, CA (USA)",
+Biniam MEHARY,ETH,,10 AUG 2024,"Stade de France, Paris (FRA)",6.
 Biniam MEHARY,ETH,1223,27 APR 2024,"Suzhou Olympic Sports Centre, Suzhou (CHN)",2.
 Biniam MEHARY,ETH,1231,17 MAY 2024,"Drake Stadium, Los Angeles, CA (USA)",6.
+Biniam MEHARY,ETH,1027,07 AUG 2024,"Stade de France, Paris (FRA)",2.
+Biniam MEHARY,ETH,1152,10 AUG 2024,"Stade de France, Paris (FRA)",6.
+Biniam MEHARY,ETH,,10 AUG 2024,"Stade de France, Paris (FRA)",6.
+Biniam MEHARY,ETH,,07 AUG 2024,"Stade de France, Paris (FRA)",2.
+Biniam MEHARY,ETH,,10 AUG 2024,"Stade de France, Paris (FRA)",6.
+Biniam MEHARY,ETH,,07 AUG 2024,"Stade de France, Paris (FRA)",2.
 Biniam MEHARY,ETH,1231,17 MAY 2024,"Drake Stadium, Los Angeles, CA (USA)",
 Biniam MEHARY,ETH,1231,17 MAY 2024,"Drake Stadium, Los Angeles, CA (USA)",
+Biniam MEHARY,ETH,,,,
+Biniam MEHARY,ETH,,10 AUG 2024,"Stade de France, Paris (FRA)",6.
+Biniam MEHARY,ETH,,,,
 Biniam MEHARY,ETH,,,,
 Biniam MEHARY,ETH,,,,
 Biniam MEHARY,ETH,,,,
@@ -618,6 +672,18 @@ Thierry NDIKUMWENAYO,ESP,,28 JUN 2024,"Estadi Olímpic Camilo Cano, La Nucia (ES
 Thierry NDIKUMWENAYO,ESP,1254,30 MAY 2024,"Bislett Stadion, Oslo (NOR)",4.
 Thierry NDIKUMWENAYO,ESP,1126,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",5.
 Thierry NDIKUMWENAYO,ESP,1134,28 JUN 2024,"Estadi Olímpic Camilo Cano, La Nucia (ESP)",1.
+Thierry NDIKUMWENAYO,ESP,0,07 AUG 2024,"Stade de France, Paris (FRA)",
+Thierry NDIKUMWENAYO,ESP,1123,10 AUG 2024,"Stade de France, Paris (FRA)",15.
+Thierry NDIKUMWENAYO,ESP,,10 AUG 2024,"Stade de France, Paris (FRA)",15.
+Thierry NDIKUMWENAYO,ESP,,07 AUG 2024,"Stade de France, Paris (FRA)",22.
+Thierry NDIKUMWENAYO,ESP,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",17.
+Thierry NDIKUMWENAYO,ESP,,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",5.
+Thierry NDIKUMWENAYO,ESP,,26 JUN 2016,Durban (RSA),7.
+Thierry NDIKUMWENAYO,ESP,,17 SEP 2015,Brazzaville (CGO),9.
+Thierry NDIKUMWENAYO,ESP,,23 JUL 2016,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",
+Thierry NDIKUMWENAYO,ESP,,08 MAR 2015,Addis Abeba (ETH),7.
+Thierry NDIKUMWENAYO,ESP,,10 AUG 2024,"Stade de France, Paris (FRA)",15.
+Thierry NDIKUMWENAYO,ESP,,07 AUG 2024,"Stade de France, Paris (FRA)",22.
 Thierry NDIKUMWENAYO,ESP,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",17.
 Thierry NDIKUMWENAYO,ESP,,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",5.
 Thierry NDIKUMWENAYO,ESP,,26 JUN 2016,Durban (RSA),7.
@@ -643,12 +709,8 @@ Thierry NDIKUMWENAYO,ESP,,28 JUN 2024,"Estadi Olímpic Camilo Cano, La Nucia (ES
 Thierry NDIKUMWENAYO,ESP,,,,
 Thierry NDIKUMWENAYO,ESP,,,,
 Thierry NDIKUMWENAYO,ESP,,,,
-Thierry NDIKUMWENAYO,ESP,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",17.
-Thierry NDIKUMWENAYO,ESP,,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",5.
-Thierry NDIKUMWENAYO,ESP,,26 JUN 2016,Durban (RSA),7.
-Thierry NDIKUMWENAYO,ESP,,17 SEP 2015,Brazzaville (CGO),9.
-Thierry NDIKUMWENAYO,ESP,,23 JUL 2016,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",
-Thierry NDIKUMWENAYO,ESP,,08 MAR 2015,Addis Abeba (ETH),7.
+Thierry NDIKUMWENAYO,ESP,,,,
+Thierry NDIKUMWENAYO,ESP,,,,
 Nicholas KIPKORIR,KEN,1260,09 JUN 2022,"Stadio Olimpico, Roma (ITA)",
 Nicholas KIPKORIR,KEN,1210,20 APR 2024,"Egret Stadium, Xiamen (CHN)",
 Nicholas KIPKORIR,KEN,1002,09 JUL 2015,Nairobi (KEN),
@@ -710,13 +772,13 @@ Nicholas KIPKORIR,KEN,,02 JUL 2017,Tlemcen (ALG),3.
 Nicholas KIPKORIR,KEN,,,,
 Nicholas KIPKORIR,KEN,,,,
 Jacob KROP,KEN,1263,02 SEP 2022,"Boudewijnstadion, Bruxelles (BEL)",
-Jacob KROP,KEN,1111,15 JUN 2024,"Nyayo National Stadium, Nairobi (KEN)",
+Jacob KROP,KEN,1142,10 AUG 2024,"Stade de France, Paris (FRA)",
 Jacob KROP,KEN,1198,30 SEP 2019,"Khalifa International Stadium, Doha (QAT)",
 Jacob KROP,KEN,1168,14 AUG 2020,"Stade Louis II, Monaco (MON)",
 Jacob KROP,KEN,1125,18 SEP 2021,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",
 Jacob KROP,KEN,1263,02 SEP 2022,"Boudewijnstadion, Bruxelles (BEL)",
 Jacob KROP,KEN,1261,21 JUL 2023,"Stade Louis II, Monaco (MON)",
-Jacob KROP,KEN,1111,15 JUN 2024,"Nyayo National Stadium, Nairobi (KEN)",
+Jacob KROP,KEN,1142,10 AUG 2024,"Stade de France, Paris (FRA)",
 Jacob KROP,KEN,,24 JUL 2022,"Hayward Field, Eugene, OR (USA)",2.
 Jacob KROP,KEN,,27 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",3.
 Jacob KROP,KEN,,30 SEP 2019,"Khalifa International Stadium, Doha (QAT)",6.
@@ -724,6 +786,20 @@ Jacob KROP,KEN,,02 SEP 2022,"Boudewijnstadion, Bruxelles (BEL)",1.
 Jacob KROP,KEN,,06 AUG 2022,"Alexander Stadium, Birmingham (GBR)",3.
 Jacob KROP,KEN,,19 APR 2019,Abidjan (CIV),2.
 Jacob KROP,KEN,1111,15 JUN 2024,"Nyayo National Stadium, Nairobi (KEN)",2.
+Jacob KROP,KEN,971,07 AUG 2024,"Stade de France, Paris (FRA)",4.
+Jacob KROP,KEN,1142,10 AUG 2024,"Stade de France, Paris (FRA)",10.
+Jacob KROP,KEN,,10 AUG 2024,"Stade de France, Paris (FRA)",10.
+Jacob KROP,KEN,,07 AUG 2024,"Stade de France, Paris (FRA)",13.
+Jacob KROP,KEN,,27 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",3.
+Jacob KROP,KEN,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",7.
+Jacob KROP,KEN,,24 JUL 2022,"Hayward Field, Eugene, OR (USA)",2.
+Jacob KROP,KEN,,21 JUL 2022,"Hayward Field, Eugene, OR (USA)",1.
+Jacob KROP,KEN,,30 SEP 2019,"Khalifa International Stadium, Doha (QAT)",6.
+Jacob KROP,KEN,,27 SEP 2019,"Khalifa International Stadium, Doha (QAT)",10.
+Jacob KROP,KEN,,06 AUG 2022,"Alexander Stadium, Birmingham (GBR)",3.
+Jacob KROP,KEN,,19 APR 2019,Abidjan (CIV),2.
+Jacob KROP,KEN,,10 AUG 2024,"Stade de France, Paris (FRA)",10.
+Jacob KROP,KEN,,07 AUG 2024,"Stade de France, Paris (FRA)",13.
 Jacob KROP,KEN,,27 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",3.
 Jacob KROP,KEN,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",7.
 Jacob KROP,KEN,,24 JUL 2022,"Hayward Field, Eugene, OR (USA)",2.
@@ -733,7 +809,7 @@ Jacob KROP,KEN,,27 SEP 2019,"Khalifa International Stadium, Doha (QAT)",10.
 Jacob KROP,KEN,,06 AUG 2022,"Alexander Stadium, Birmingham (GBR)",3.
 Jacob KROP,KEN,,19 APR 2019,Abidjan (CIV),2.
 Jacob KROP,KEN,1263,02 SEP 2022,"Boudewijnstadion, Bruxelles (BEL)",
-Jacob KROP,KEN,1111,15 JUN 2024,"Nyayo National Stadium, Nairobi (KEN)",
+Jacob KROP,KEN,1142,10 AUG 2024,"Stade de France, Paris (FRA)",
 Jacob KROP,KEN,,,,
 Jacob KROP,KEN,,,,
 Jacob KROP,KEN,,,,
@@ -747,14 +823,8 @@ Jacob KROP,KEN,,02 SEP 2022,"Boudewijnstadion, Bruxelles (BEL)",1.
 Jacob KROP,KEN,,06 AUG 2022,"Alexander Stadium, Birmingham (GBR)",3.
 Jacob KROP,KEN,,19 APR 2019,Abidjan (CIV),2.
 Jacob KROP,KEN,,,,
-Jacob KROP,KEN,,27 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",3.
-Jacob KROP,KEN,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",7.
-Jacob KROP,KEN,,24 JUL 2022,"Hayward Field, Eugene, OR (USA)",2.
-Jacob KROP,KEN,,21 JUL 2022,"Hayward Field, Eugene, OR (USA)",1.
-Jacob KROP,KEN,,30 SEP 2019,"Khalifa International Stadium, Doha (QAT)",6.
-Jacob KROP,KEN,,27 SEP 2019,"Khalifa International Stadium, Doha (QAT)",10.
-Jacob KROP,KEN,,06 AUG 2022,"Alexander Stadium, Birmingham (GBR)",3.
-Jacob KROP,KEN,,19 APR 2019,Abidjan (CIV),2.
+Jacob KROP,KEN,,,,
+Jacob KROP,KEN,,,,
 Birhanu BALEW,BRN,1223,06 JUN 2019,"Stadio Olimpico, Roma (ITA)",
 Birhanu BALEW,BRN,1208,20 APR 2024,"Egret Stadium, Xiamen (CHN)",
 Birhanu BALEW,BRN,1069,25 OCT 2015,Qatif (KSA),
@@ -774,6 +844,8 @@ Birhanu BALEW,BRN,,12 MAY 2018,"Shanghai Stadium, Shanghai (CHN)",1.
 Birhanu BALEW,BRN,,07 JUL 2023,"Complexe Olympique Mohamed Boudiaf, Algiers (ALG)",1.
 Birhanu BALEW,BRN,,26 OCT 2019,"Five Rings Sports Center, Wuhan (CHN)",1.
 Birhanu BALEW,BRN,1208,20 APR 2024,"Egret Stadium, Xiamen (CHN)",3.
+Birhanu BALEW,BRN,1023,07 AUG 2024,"Stade de France, Paris (FRA)",10.
+Birhanu BALEW,BRN,,07 AUG 2024,"Stade de France, Paris (FRA)",24.
 Birhanu BALEW,BRN,,06 AUG 2021,"National Stadium, Tokyo (JPN)",6.
 Birhanu BALEW,BRN,,03 AUG 2021,"National Stadium, Tokyo (JPN)",15.
 Birhanu BALEW,BRN,,20 AUG 2016,"Estádio Olímpico, Rio de Janeiro (BRA)",9.
@@ -786,6 +858,7 @@ Birhanu BALEW,BRN,,09 AUG 2017,"Olympic Stadium, London (GBR)",2.
 Birhanu BALEW,BRN,,04 OCT 2023,"HOC Stadium, Hangzhou (CHN)",1.
 Birhanu BALEW,BRN,,24 APR 2019,Doha (QAT),1.
 Birhanu BALEW,BRN,,30 AUG 2018,Jakarta (INA),1.
+Birhanu BALEW,BRN,,07 AUG 2024,"Stade de France, Paris (FRA)",24.
 Birhanu BALEW,BRN,,06 AUG 2021,"National Stadium, Tokyo (JPN)",6.
 Birhanu BALEW,BRN,,03 AUG 2021,"National Stadium, Tokyo (JPN)",15.
 Birhanu BALEW,BRN,,20 AUG 2016,"Estádio Olímpico, Rio de Janeiro (BRA)",9.
@@ -816,6 +889,7 @@ Birhanu BALEW,BRN,,05 JUL 2018,"Stade Olympique de la Pontaise, Lausanne (SUI)",
 Birhanu BALEW,BRN,,12 MAY 2018,"Shanghai Stadium, Shanghai (CHN)",1.
 Birhanu BALEW,BRN,,07 JUL 2023,"Complexe Olympique Mohamed Boudiaf, Algiers (ALG)",1.
 Birhanu BALEW,BRN,,26 OCT 2019,"Five Rings Sports Center, Wuhan (CHN)",1.
+Birhanu BALEW,BRN,,,,
 Birhanu BALEW,BRN,,,,
 Samuel TEFERA,ETH,1225,30 MAY 2024,"Bislett Stadion, Oslo (NOR)",
 Samuel TEFERA,ETH,1225,30 MAY 2024,"Bislett Stadion, Oslo (NOR)",
@@ -841,8 +915,11 @@ Andreas ALMGREN,SWE,,07 AUG 2022,"Norrköpings Friidrottsarena, Norrköping (SWE
 Andreas ALMGREN,SWE,,29 AUG 2021,"Ryavallen, Borås (SWE)",1.
 Andreas ALMGREN,SWE,1210,15 MAY 2024,"Olympiastadion, Stockholm (SWE)",3.
 Andreas ALMGREN,SWE,1243,30 MAY 2024,"Bislett Stadion, Oslo (NOR)",8.
+Andreas ALMGREN,SWE,0,07 AUG 2024,"Stade de France, Paris (FRA)",
+Andreas ALMGREN,SWE,,07 AUG 2024,"Stade de France, Paris (FRA)",
 Andreas ALMGREN,SWE,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",20.
 Andreas ALMGREN,SWE,,16 AUG 2022,"Olympiastadion, München (GER)",4.
+Andreas ALMGREN,SWE,,07 AUG 2024,"Stade de France, Paris (FRA)",
 Andreas ALMGREN,SWE,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",20.
 Andreas ALMGREN,SWE,,16 AUG 2022,"Olympiastadion, München (GER)",4.
 Andreas ALMGREN,SWE,1243,30 MAY 2024,"Bislett Stadion, Oslo (NOR)",
@@ -857,6 +934,7 @@ Andreas ALMGREN,SWE,,07 AUG 2022,"Norrköpings Friidrottsarena, Norrköping (SWE
 Andreas ALMGREN,SWE,,29 AUG 2021,"Ryavallen, Borås (SWE)",1.
 Andreas ALMGREN,SWE,,,,
 Andreas ALMGREN,SWE,,,,
+Andreas ALMGREN,SWE,,,,
 Kuma GIRMA,ETH,1197,30 JUN 2023,"Stade Olympique de la Pontaise, Lausanne (SUI)",
 Kuma GIRMA,ETH,1197,27 APR 2024,"Suzhou Olympic Sports Centre, Suzhou (CHN)",
 Kuma GIRMA,ETH,1197,30 JUN 2023,"Stade Olympique de la Pontaise, Lausanne (SUI)",
@@ -866,7 +944,6 @@ Kuma GIRMA,ETH,1055,22 MAR 2024,"University of Ghana Sports Stadium, Accra (GHA)
 Kuma GIRMA,ETH,1193,20 APR 2024,"Egret Stadium, Xiamen (CHN)",8.
 Kuma GIRMA,ETH,1197,27 APR 2024,"Suzhou Olympic Sports Centre, Suzhou (CHN)",4.
 Kuma GIRMA,ETH,,22 MAR 2024,"University of Ghana Sports Stadium, Accra (GHA)",4.
-Kuma GIRMA,ETH,,22 MAR 2024,"University of Ghana Sports Stadium, Accra (GHA)",4.
 Kuma GIRMA,ETH,1197,30 JUN 2023,"Stade Olympique de la Pontaise, Lausanne (SUI)",
 Kuma GIRMA,ETH,1197,27 APR 2024,"Suzhou Olympic Sports Centre, Suzhou (CHN)",
 Kuma GIRMA,ETH,,,,
@@ -875,6 +952,7 @@ Kuma GIRMA,ETH,,22 MAR 2024,"University of Ghana Sports Stadium, Accra (GHA)",4.
 Kuma GIRMA,ETH,,,,
 Kuma GIRMA,ETH,,,,
 Kuma GIRMA,ETH,,,,
+Kuma GIRMA,ETH,,22 MAR 2024,"University of Ghana Sports Stadium, Accra (GHA)",4.
 Addisu YIHUNE,ETH,1248,30 MAY 2024,"Bislett Stadion, Oslo (NOR)",
 Addisu YIHUNE,ETH,1248,30 MAY 2024,"Bislett Stadion, Oslo (NOR)",
 Addisu YIHUNE,ETH,1213,08 JUN 2021,"FBK Stadium, Hengelo (NED)",
@@ -885,8 +963,14 @@ Addisu YIHUNE,ETH,,01 AUG 2022,"Pascual Guerrero Stadium, Cali (COL)",1.
 Addisu YIHUNE,ETH,,19 AUG 2021,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",4.
 Addisu YIHUNE,ETH,1204,20 APR 2024,"Egret Stadium, Xiamen (CHN)",5.
 Addisu YIHUNE,ETH,1248,30 MAY 2024,"Bislett Stadion, Oslo (NOR)",5.
+Addisu YIHUNE,ETH,1024,07 AUG 2024,"Stade de France, Paris (FRA)",8.
+Addisu YIHUNE,ETH,1129,10 AUG 2024,"Stade de France, Paris (FRA)",14.
+Addisu YIHUNE,ETH,,10 AUG 2024,"Stade de France, Paris (FRA)",14.
+Addisu YIHUNE,ETH,,07 AUG 2024,"Stade de France, Paris (FRA)",8.
 Addisu YIHUNE,ETH,,01 AUG 2022,"Pascual Guerrero Stadium, Cali (COL)",1.
 Addisu YIHUNE,ETH,,19 AUG 2021,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",4.
+Addisu YIHUNE,ETH,,10 AUG 2024,"Stade de France, Paris (FRA)",14.
+Addisu YIHUNE,ETH,,07 AUG 2024,"Stade de France, Paris (FRA)",8.
 Addisu YIHUNE,ETH,,01 AUG 2022,"Pascual Guerrero Stadium, Cali (COL)",1.
 Addisu YIHUNE,ETH,,19 AUG 2021,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",4.
 Addisu YIHUNE,ETH,1248,30 MAY 2024,"Bislett Stadion, Oslo (NOR)",
@@ -897,6 +981,8 @@ Addisu YIHUNE,ETH,,,,
 Addisu YIHUNE,ETH,,,,
 Addisu YIHUNE,ETH,,01 AUG 2022,"Pascual Guerrero Stadium, Cali (COL)",1.
 Addisu YIHUNE,ETH,,19 AUG 2021,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",4.
+Addisu YIHUNE,ETH,,,,
+Addisu YIHUNE,ETH,,,,
 Addisu YIHUNE,ETH,,,,
 Addisu YIHUNE,ETH,,,,
 Mohammed AHMED,CAN,1257,10 JUL 2020,"Jesuit High School Track, Portland, OR (USA)",
@@ -941,7 +1027,9 @@ Mohammed AHMED,CAN,,07 JUL 2016,Edmonton (CAN),1.
 Mohammed AHMED,CAN,0,03 MAY 2024,"Hayward Field, Eugene, OR (USA)",
 Mohammed AHMED,CAN,1231,17 MAY 2024,"Drake Stadium, Los Angeles, CA (USA)",7.
 Mohammed AHMED,CAN,1170,27 JUN 2024,"Complexe Sportif Claude-Robillard, Montréal (CAN)",1.
+Mohammed AHMED,CAN,948,07 AUG 2024,"Stade de France, Paris (FRA)",16.
 Mohammed AHMED,CAN,1239,16 FEB 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",5.
+Mohammed AHMED,CAN,,07 AUG 2024,"Stade de France, Paris (FRA)",38.
 Mohammed AHMED,CAN,,06 AUG 2021,"National Stadium, Tokyo (JPN)",2.
 Mohammed AHMED,CAN,,03 AUG 2021,"National Stadium, Tokyo (JPN)",12.
 Mohammed AHMED,CAN,,20 AUG 2016,"Estádio Olímpico, Rio de Janeiro (BRA)",4.
@@ -958,6 +1046,7 @@ Mohammed AHMED,CAN,,29 AUG 2015,"National Stadium, Beijing (CHN)",12.
 Mohammed AHMED,CAN,,26 AUG 2015,"National Stadium, Beijing (CHN)",3.
 Mohammed AHMED,CAN,,08 APR 2018,Gold Coast (AUS),2.
 Mohammed AHMED,CAN,,27 JUL 2014,"Hampden Park, Glasgow (GBR)",5.
+Mohammed AHMED,CAN,,07 AUG 2024,"Stade de France, Paris (FRA)",38.
 Mohammed AHMED,CAN,,06 AUG 2021,"National Stadium, Tokyo (JPN)",2.
 Mohammed AHMED,CAN,,03 AUG 2021,"National Stadium, Tokyo (JPN)",12.
 Mohammed AHMED,CAN,,20 AUG 2016,"Estádio Olímpico, Rio de Janeiro (BRA)",4.
@@ -1017,6 +1106,7 @@ Mohammed AHMED,CAN,,,,
 Mohammed AHMED,CAN,,,,
 Mohammed AHMED,CAN,,,,
 Mohammed AHMED,CAN,,,,
+Mohammed AHMED,CAN,,,,
 Jimmy GRESSIER,FRA,1228,30 MAY 2024,"Bislett Stadion, Oslo (NOR)",
 Jimmy GRESSIER,FRA,1228,30 MAY 2024,"Bislett Stadion, Oslo (NOR)",
 Jimmy GRESSIER,FRA,832,12 JUN 2015,Villeneuve d'Ascq (FRA),
@@ -1034,6 +1124,8 @@ Jimmy GRESSIER,FRA,,28 JUL 2023,"Stadium Municipal, Albi (FRA)",1.
 Jimmy GRESSIER,FRA,,12 SEP 2020,"Stadium Municipal, Albi (FRA)",1.
 Jimmy GRESSIER,FRA,0,04 MAY 2024,"Stade Raymond Troussier, Decines (FRA)",
 Jimmy GRESSIER,FRA,1228,30 MAY 2024,"Bislett Stadion, Oslo (NOR)",11.
+Jimmy GRESSIER,FRA,967,07 AUG 2024,"Stade de France, Paris (FRA)",9.
+Jimmy GRESSIER,FRA,,07 AUG 2024,"Stade de France, Paris (FRA)",32.
 Jimmy GRESSIER,FRA,,06 AUG 2021,"National Stadium, Tokyo (JPN)",13.
 Jimmy GRESSIER,FRA,,03 AUG 2021,"National Stadium, Tokyo (JPN)",9.
 Jimmy GRESSIER,FRA,,27 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",9.
@@ -1041,6 +1133,7 @@ Jimmy GRESSIER,FRA,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",14
 Jimmy GRESSIER,FRA,,13 JUL 2019,"Gunder Hägg Stadion, Gävle (SWE)",1.
 Jimmy GRESSIER,FRA,,15 JUL 2017,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",
 Jimmy GRESSIER,FRA,,23 JUL 2016,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",10.
+Jimmy GRESSIER,FRA,,07 AUG 2024,"Stade de France, Paris (FRA)",32.
 Jimmy GRESSIER,FRA,,06 AUG 2021,"National Stadium, Tokyo (JPN)",13.
 Jimmy GRESSIER,FRA,,03 AUG 2021,"National Stadium, Tokyo (JPN)",9.
 Jimmy GRESSIER,FRA,,27 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",9.
@@ -1065,6 +1158,7 @@ Jimmy GRESSIER,FRA,,28 JUL 2023,"Stadium Municipal, Albi (FRA)",1.
 Jimmy GRESSIER,FRA,,12 SEP 2020,"Stadium Municipal, Albi (FRA)",1.
 Jimmy GRESSIER,FRA,,,,
 Jimmy GRESSIER,FRA,,,,
+Jimmy GRESSIER,FRA,,,,
 Cornelius KEMBOI,KEN,1207,15 JUL 2023,"Stadion De Veen, Heusden-Zolder (BEL)",
 Cornelius KEMBOI,KEN,1200,20 APR 2024,"Egret Stadium, Xiamen (CHN)",
 Cornelius KEMBOI,KEN,1060,13 MAR 2021,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",
@@ -1079,6 +1173,9 @@ Cornelius KEMBOI,KEN,1174,07 JUL 2024,"FBK Stadium, Hengelo (NED)",4.
 Cornelius KEMBOI,KEN,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",33.
 Cornelius KEMBOI,KEN,,22 MAR 2024,"University of Ghana Sports Stadium, Accra (GHA)",3.
 Cornelius KEMBOI,KEN,,06 AUG 2022,"Alexander Stadium, Birmingham (GBR)",11.
+Cornelius KEMBOI,KEN,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",33.
+Cornelius KEMBOI,KEN,,22 MAR 2024,"University of Ghana Sports Stadium, Accra (GHA)",3.
+Cornelius KEMBOI,KEN,,06 AUG 2022,"Alexander Stadium, Birmingham (GBR)",11.
 Cornelius KEMBOI,KEN,1207,15 JUL 2023,"Stadion De Veen, Heusden-Zolder (BEL)",
 Cornelius KEMBOI,KEN,1200,20 APR 2024,"Egret Stadium, Xiamen (CHN)",
 Cornelius KEMBOI,KEN,,,,
@@ -1090,9 +1187,6 @@ Cornelius KEMBOI,KEN,,,,
 Cornelius KEMBOI,KEN,,,,
 Cornelius KEMBOI,KEN,,,,
 Cornelius KEMBOI,KEN,,,,
-Cornelius KEMBOI,KEN,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",33.
-Cornelius KEMBOI,KEN,,22 MAR 2024,"University of Ghana Sports Stadium, Accra (GHA)",3.
-Cornelius KEMBOI,KEN,,06 AUG 2022,"Alexander Stadium, Birmingham (GBR)",11.
 Narve Gilje NORDÅS,NOR,1190,15 JUL 2023,"Stadion De Veen, Heusden-Zolder (BEL)",
 Narve Gilje NORDÅS,NOR,1155,29 JUN 2024,"Sandnes Stadion, Sandnes (NOR)",
 Narve Gilje NORDÅS,NOR,721,28 JUN 2015,Oslo (NOR),
@@ -1108,6 +1202,10 @@ Narve Gilje NORDÅS,NOR,,18 SEP 2020,"Fana Stadion, Bergen (NOR)",1.
 Narve Gilje NORDÅS,NOR,0,30 APR 2024,"Estadio Iberoamericano, Huelva (ESP)",
 Narve Gilje NORDÅS,NOR,1113,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",11.
 Narve Gilje NORDÅS,NOR,1155,29 JUN 2024,"Sandnes Stadion, Sandnes (NOR)",2.
+Narve Gilje NORDÅS,NOR,973,07 AUG 2024,"Stade de France, Paris (FRA)",1.
+Narve Gilje NORDÅS,NOR,1097,10 AUG 2024,"Stade de France, Paris (FRA)",17.
+Narve Gilje NORDÅS,NOR,,10 AUG 2024,"Stade de France, Paris (FRA)",17.
+Narve Gilje NORDÅS,NOR,,07 AUG 2024,"Stade de France, Paris (FRA)",10.
 Narve Gilje NORDÅS,NOR,,03 AUG 2021,"National Stadium, Tokyo (JPN)",23.
 Narve Gilje NORDÅS,NOR,,27 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",14.
 Narve Gilje NORDÅS,NOR,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",16.
@@ -1115,6 +1213,8 @@ Narve Gilje NORDÅS,NOR,,21 JUL 2022,"Hayward Field, Eugene, OR (USA)",24.
 Narve Gilje NORDÅS,NOR,,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",11.
 Narve Gilje NORDÅS,NOR,,16 AUG 2022,"Olympiastadion, München (GER)",17.
 Narve Gilje NORDÅS,NOR,,22 JUL 2017,"Stadio Zecchini, Grosseto (ITA)",10.
+Narve Gilje NORDÅS,NOR,,10 AUG 2024,"Stade de France, Paris (FRA)",17.
+Narve Gilje NORDÅS,NOR,,07 AUG 2024,"Stade de France, Paris (FRA)",10.
 Narve Gilje NORDÅS,NOR,,03 AUG 2021,"National Stadium, Tokyo (JPN)",23.
 Narve Gilje NORDÅS,NOR,,27 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",14.
 Narve Gilje NORDÅS,NOR,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",16.
@@ -1137,6 +1237,8 @@ Narve Gilje NORDÅS,NOR,,18 SEP 2020,"Fana Stadion, Bergen (NOR)",1.
 Narve Gilje NORDÅS,NOR,,,,
 Narve Gilje NORDÅS,NOR,,,,
 Narve Gilje NORDÅS,NOR,,,,
+Narve Gilje NORDÅS,NOR,,,,
+Narve Gilje NORDÅS,NOR,,,,
 Mohamed ISMAIL,DJI,1223,15 MAY 2024,"Olympiastadion, Stockholm (SWE)",
 Mohamed ISMAIL,DJI,1223,15 MAY 2024,"Olympiastadion, Stockholm (SWE)",
 Mohamed ISMAIL,DJI,882,01 JUL 2012,Porto Novo (BEN),
@@ -1147,9 +1249,12 @@ Mohamed ISMAIL,DJI,,26 JUN 2024,"Stade Omnisport de JAPOMA, Douala (CMR)",1.
 Mohamed ISMAIL,DJI,,04 AUG 2023,"Stade des Martyrs, Kinshasa (COD)",1.
 Mohamed ISMAIL,DJI,1223,15 MAY 2024,"Olympiastadion, Stockholm (SWE)",1.
 Mohamed ISMAIL,DJI,1073,26 JUN 2024,"Stade Omnisport de JAPOMA, Douala (CMR)",1.
+Mohamed ISMAIL,DJI,1008,07 AUG 2024,"Stade de France, Paris (FRA)",15.
+Mohamed ISMAIL,DJI,,07 AUG 2024,"Stade de France, Paris (FRA)",28.
 Mohamed ISMAIL,DJI,,27 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",11.
 Mohamed ISMAIL,DJI,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",6.
 Mohamed ISMAIL,DJI,,01 JUL 2012,Porto Novo (BEN),14.
+Mohamed ISMAIL,DJI,,07 AUG 2024,"Stade de France, Paris (FRA)",28.
 Mohamed ISMAIL,DJI,,27 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",11.
 Mohamed ISMAIL,DJI,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",6.
 Mohamed ISMAIL,DJI,,01 JUL 2012,Porto Novo (BEN),14.
@@ -1161,6 +1266,7 @@ Mohamed ISMAIL,DJI,,,,
 Mohamed ISMAIL,DJI,,,,
 Mohamed ISMAIL,DJI,,26 JUN 2024,"Stade Omnisport de JAPOMA, Douala (CMR)",1.
 Mohamed ISMAIL,DJI,,04 AUG 2023,"Stade des Martyrs, Kinshasa (COD)",1.
+Mohamed ISMAIL,DJI,,,,
 Mohamed ISMAIL,DJI,,,,
 Mohamed ISMAIL,DJI,,,,
 Stewart MCSWEYN,AUS,1224,17 MAY 2024,"Drake Stadium, Los Angeles, CA (USA)",
@@ -1180,6 +1286,10 @@ Stewart MCSWEYN,AUS,1224,17 MAY 2024,"Drake Stadium, Los Angeles, CA (USA)",
 Stewart MCSWEYN,AUS,,08 APR 2018,Gold Coast (AUS),5.
 Stewart MCSWEYN,AUS,1191,20 APR 2024,"Egret Stadium, Xiamen (CHN)",10.
 Stewart MCSWEYN,AUS,1224,17 MAY 2024,"Drake Stadium, Los Angeles, CA (USA)",10.
+Stewart MCSWEYN,AUS,959,07 AUG 2024,"Stade de France, Paris (FRA)",12.
+Stewart MCSWEYN,AUS,1097,10 AUG 2024,"Stade de France, Paris (FRA)",18.
+Stewart MCSWEYN,AUS,,10 AUG 2024,"Stade de France, Paris (FRA)",18.
+Stewart MCSWEYN,AUS,,07 AUG 2024,"Stade de France, Paris (FRA)",18.
 Stewart MCSWEYN,AUS,,27 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",13.
 Stewart MCSWEYN,AUS,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",38.
 Stewart MCSWEYN,AUS,,30 SEP 2019,"Khalifa International Stadium, Doha (QAT)",12.
@@ -1187,6 +1297,8 @@ Stewart MCSWEYN,AUS,,27 SEP 2019,"Khalifa International Stadium, Doha (QAT)",4.
 Stewart MCSWEYN,AUS,,08 APR 2018,Gold Coast (AUS),5.
 Stewart MCSWEYN,AUS,,12 JUL 2015,"Main Stadium, Gwangju (KOR)",14.
 Stewart MCSWEYN,AUS,,10 JUL 2015,"Main Stadium, Gwangju (KOR)",7.
+Stewart MCSWEYN,AUS,,10 AUG 2024,"Stade de France, Paris (FRA)",18.
+Stewart MCSWEYN,AUS,,07 AUG 2024,"Stade de France, Paris (FRA)",18.
 Stewart MCSWEYN,AUS,,27 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",13.
 Stewart MCSWEYN,AUS,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",38.
 Stewart MCSWEYN,AUS,,30 SEP 2019,"Khalifa International Stadium, Doha (QAT)",12.
@@ -1209,6 +1321,8 @@ Stewart MCSWEYN,AUS,,,,
 Stewart MCSWEYN,AUS,,,,
 Stewart MCSWEYN,AUS,,,,
 Stewart MCSWEYN,AUS,,08 APR 2018,Gold Coast (AUS),5.
+Stewart MCSWEYN,AUS,,,,
+Stewart MCSWEYN,AUS,,,,
 Stewart MCSWEYN,AUS,,,,
 Stewart MCSWEYN,AUS,,,,
 Cole HOCKER,USA,1214,17 MAY 2024,"Drake Stadium, Los Angeles, CA (USA)",
@@ -1293,10 +1407,13 @@ Brian FAY,IRL,1118,27 APR 2024,"Suzhou Olympic Sports Centre, Suzhou (CHN)",13.
 Brian FAY,IRL,1101,30 MAY 2024,"Bislett Stadion, Oslo (NOR)",18.
 Brian FAY,IRL,1104,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",14.
 Brian FAY,IRL,1055,29 JUN 2024,"Morton Stadium, Dublin (IRL)",1.
+Brian FAY,IRL,1015,07 AUG 2024,"Stade de France, Paris (FRA)",13.
 Brian FAY,IRL,1198,26 JAN 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",10.
+Brian FAY,IRL,,07 AUG 2024,"Stade de France, Paris (FRA)",26.
 Brian FAY,IRL,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",31.
 Brian FAY,IRL,,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",14.
 Brian FAY,IRL,,16 AUG 2022,"Olympiastadion, München (GER)",8.
+Brian FAY,IRL,,07 AUG 2024,"Stade de France, Paris (FRA)",26.
 Brian FAY,IRL,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",31.
 Brian FAY,IRL,,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",14.
 Brian FAY,IRL,,16 AUG 2022,"Olympiastadion, München (GER)",8.
@@ -1315,6 +1432,7 @@ Brian FAY,IRL,,,,
 Brian FAY,IRL,,16 AUG 2022,"Olympiastadion, München (GER)",8.
 Brian FAY,IRL,,29 JUN 2024,"Morton Stadium, Dublin (IRL)",1.
 Brian FAY,IRL,,30 JUL 2023,"Morton Stadium, Dublin (IRL)",1.
+Brian FAY,IRL,,,,
 Brian FAY,IRL,,,,
 Brian FAY,IRL,,,,
 Brian FAY,IRL,,,,
@@ -1343,13 +1461,16 @@ Morgan MCDONALD,AUS,,08 MAR 2019,"Birmingham, AL (USA) (i)",1.
 Morgan MCDONALD,AUS,1069,14 APR 2024,"SA Athletic Stadium, Adelaide (AUS)",2.
 Morgan MCDONALD,AUS,1142,27 APR 2024,"Suzhou Olympic Sports Centre, Suzhou (CHN)",7.
 Morgan MCDONALD,AUS,1208,17 MAY 2024,"Drake Stadium, Los Angeles, CA (USA)",12.
+Morgan MCDONALD,AUS,1024,07 AUG 2024,"Stade de France, Paris (FRA)",9.
 Morgan MCDONALD,AUS,1235,26 JAN 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",7.
+Morgan MCDONALD,AUS,,07 AUG 2024,"Stade de France, Paris (FRA)",23.
 Morgan MCDONALD,AUS,,03 AUG 2021,"National Stadium, Tokyo (JPN)",17.
 Morgan MCDONALD,AUS,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",32.
 Morgan MCDONALD,AUS,,27 SEP 2019,"Khalifa International Stadium, Doha (QAT)",17.
 Morgan MCDONALD,AUS,,09 AUG 2017,"Olympic Stadium, London (GBR)",7.
 Morgan MCDONALD,AUS,,08 APR 2018,Gold Coast (AUS),8.
 Morgan MCDONALD,AUS,,25 JUL 2014,"Hayward Field, Eugene, OR (USA)",10.
+Morgan MCDONALD,AUS,,07 AUG 2024,"Stade de France, Paris (FRA)",23.
 Morgan MCDONALD,AUS,,03 AUG 2021,"National Stadium, Tokyo (JPN)",17.
 Morgan MCDONALD,AUS,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",32.
 Morgan MCDONALD,AUS,,27 SEP 2019,"Khalifa International Stadium, Doha (QAT)",17.
@@ -1375,6 +1496,7 @@ Morgan MCDONALD,AUS,,08 APR 2018,Gold Coast (AUS),8.
 Morgan MCDONALD,AUS,,15 FEB 2018,Gold Coast (AUS),1.
 Morgan MCDONALD,AUS,,07 JUN 2019,"Austin, TX (USA)",1.
 Morgan MCDONALD,AUS,,08 MAR 2019,"Birmingham, AL (USA) (i)",1.
+Morgan MCDONALD,AUS,,,,
 Morgan MCDONALD,AUS,,,,
 Morgan MCDONALD,AUS,,,,
 Morgan MCDONALD,AUS,,,,
@@ -1451,8 +1573,14 @@ Yann SCHRUB,FRA,,13 JUL 2019,Napoli (ITA),2.
 Yann SCHRUB,FRA,,28 JUN 2024,"Stade Josette et Roger Mikulak, Angers (FRA)",1.
 Yann SCHRUB,FRA,1194,25 MAY 2024,"Boudewijnstadion, Bruxelles (BEL)",1.
 Yann SCHRUB,FRA,1063,28 JUN 2024,"Stade Josette et Roger Mikulak, Angers (FRA)",1.
+Yann SCHRUB,FRA,1022,07 AUG 2024,"Stade de France, Paris (FRA)",9.
+Yann SCHRUB,FRA,1135,10 AUG 2024,"Stade de France, Paris (FRA)",12.
+Yann SCHRUB,FRA,,10 AUG 2024,"Stade de France, Paris (FRA)",12.
+Yann SCHRUB,FRA,,07 AUG 2024,"Stade de France, Paris (FRA)",11.
 Yann SCHRUB,FRA,,13 JUL 2019,Napoli (ITA),2.
 Yann SCHRUB,FRA,,11 JUL 2019,Napoli (ITA),2.
+Yann SCHRUB,FRA,,10 AUG 2024,"Stade de France, Paris (FRA)",12.
+Yann SCHRUB,FRA,,07 AUG 2024,"Stade de France, Paris (FRA)",11.
 Yann SCHRUB,FRA,,13 JUL 2019,Napoli (ITA),2.
 Yann SCHRUB,FRA,,11 JUL 2019,Napoli (ITA),2.
 Yann SCHRUB,FRA,1194,25 MAY 2024,"Boudewijnstadion, Bruxelles (BEL)",
@@ -1469,6 +1597,8 @@ Yann SCHRUB,FRA,,,,
 Yann SCHRUB,FRA,,,,
 Yann SCHRUB,FRA,,13 JUL 2019,Napoli (ITA),2.
 Yann SCHRUB,FRA,,28 JUN 2024,"Stade Josette et Roger Mikulak, Angers (FRA)",1.
+Yann SCHRUB,FRA,,,,
+Yann SCHRUB,FRA,,,,
 Yann SCHRUB,FRA,,,,
 Yann SCHRUB,FRA,,,,
 Mike FOPPEN,NED,1189,15 JUL 2023,"Stadion De Veen, Heusden-Zolder (BEL)",
@@ -1494,14 +1624,20 @@ Mike FOPPEN,NED,,27 JUL 2019,Den Haag (NED),1.
 Mike FOPPEN,NED,1150,27 APR 2024,"Suzhou Olympic Sports Centre, Suzhou (CHN)",6.
 Mike FOPPEN,NED,0,30 MAY 2024,"Bislett Stadion, Oslo (NOR)",
 Mike FOPPEN,NED,1092,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",18.
+Mike FOPPEN,NED,879,07 AUG 2024,"Stade de France, Paris (FRA)",19.
+Mike FOPPEN,NED,1132,10 AUG 2024,"Stade de France, Paris (FRA)",13.
 Mike FOPPEN,NED,1230,26 JAN 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",8.
 Mike FOPPEN,NED,1193,10 FEB 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",5.
+Mike FOPPEN,NED,,10 AUG 2024,"Stade de France, Paris (FRA)",13.
+Mike FOPPEN,NED,,07 AUG 2024,"Stade de France, Paris (FRA)",21.
 Mike FOPPEN,NED,,03 AUG 2021,"National Stadium, Tokyo (JPN)",
 Mike FOPPEN,NED,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",25.
 Mike FOPPEN,NED,,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",18.
 Mike FOPPEN,NED,,16 AUG 2022,"Olympiastadion, München (GER)",5.
 Mike FOPPEN,NED,,28 AUG 2017,"Taipei Municipal Stadium, Taipei City (TPE)",14.
 Mike FOPPEN,NED,,26 AUG 2017,"Taipei Municipal Stadium, Taipei City (TPE)",8.
+Mike FOPPEN,NED,,10 AUG 2024,"Stade de France, Paris (FRA)",13.
+Mike FOPPEN,NED,,07 AUG 2024,"Stade de France, Paris (FRA)",21.
 Mike FOPPEN,NED,,03 AUG 2021,"National Stadium, Tokyo (JPN)",
 Mike FOPPEN,NED,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",25.
 Mike FOPPEN,NED,,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",18.
@@ -1533,6 +1669,8 @@ Mike FOPPEN,NED,,,,
 Mike FOPPEN,NED,,,,
 Mike FOPPEN,NED,,,,
 Mike FOPPEN,NED,,,,
+Mike FOPPEN,NED,,,,
+Mike FOPPEN,NED,,,,
 Sam ATKIN,GBR,1229,17 MAY 2024,"Drake Stadium, Los Angeles, CA (USA)",
 Sam ATKIN,GBR,1268,26 JAN 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
 Sam ATKIN,GBR,1229,17 MAY 2024,"Drake Stadium, Los Angeles, CA (USA)",
@@ -1553,7 +1691,12 @@ Sam ATKIN,GBR,1249,12 FEB 2022,"Boston Univ. Track & Tennis Center, Boston, MA (
 Sam ATKIN,GBR,1237,02 DEC 2023,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
 Sam ATKIN,GBR,1268,26 JAN 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
 Sam ATKIN,GBR,1229,17 MAY 2024,"Drake Stadium, Los Angeles, CA (USA)",8.
+Sam ATKIN,GBR,991,07 AUG 2024,"Stade de France, Paris (FRA)",18.
 Sam ATKIN,GBR,1268,26 JAN 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",3.
+Sam ATKIN,GBR,,07 AUG 2024,"Stade de France, Paris (FRA)",31.
+Sam ATKIN,GBR,,21 JUL 2022,"Hayward Field, Eugene, OR (USA)",21.
+Sam ATKIN,GBR,,16 AUG 2022,"Olympiastadion, München (GER)",9.
+Sam ATKIN,GBR,,07 AUG 2024,"Stade de France, Paris (FRA)",31.
 Sam ATKIN,GBR,,21 JUL 2022,"Hayward Field, Eugene, OR (USA)",21.
 Sam ATKIN,GBR,,16 AUG 2022,"Olympiastadion, München (GER)",9.
 Sam ATKIN,GBR,1229,17 MAY 2024,"Drake Stadium, Los Angeles, CA (USA)",
@@ -1577,8 +1720,7 @@ Sam ATKIN,GBR,,,,
 Sam ATKIN,GBR,,,,
 Sam ATKIN,GBR,,,,
 Sam ATKIN,GBR,,,,
-Sam ATKIN,GBR,,21 JUL 2022,"Hayward Field, Eugene, OR (USA)",21.
-Sam ATKIN,GBR,,16 AUG 2022,"Olympiastadion, München (GER)",9.
+Sam ATKIN,GBR,,,,
 Abdihamid NUR,USA,1251,26 JAN 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
 Abdihamid NUR,USA,1251,26 JAN 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
 Abdihamid NUR,USA,1251,26 JAN 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
@@ -1601,11 +1743,14 @@ Abdihamid NUR,USA,0,04 MAY 2024,"Jack Kemp Stadium, Los Angeles, CA (USA)",
 Abdihamid NUR,USA,1194,17 MAY 2024,"Drake Stadium, Los Angeles, CA (USA)",1.
 Abdihamid NUR,USA,1123,27 JUN 2024,"Hayward Field, Eugene, OR (USA)",2.
 Abdihamid NUR,USA,1177,30 JUN 2024,"Hayward Field, Eugene, OR (USA)",2.
+Abdihamid NUR,USA,950,07 AUG 2024,"Stade de France, Paris (FRA)",19.
 Abdihamid NUR,USA,1251,26 JAN 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",4.
+Abdihamid NUR,USA,,07 AUG 2024,"Stade de France, Paris (FRA)",37.
 Abdihamid NUR,USA,,27 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",12.
 Abdihamid NUR,USA,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",13.
 Abdihamid NUR,USA,,24 JUL 2022,"Hayward Field, Eugene, OR (USA)",11.
 Abdihamid NUR,USA,,21 JUL 2022,"Hayward Field, Eugene, OR (USA)",13.
+Abdihamid NUR,USA,,07 AUG 2024,"Stade de France, Paris (FRA)",37.
 Abdihamid NUR,USA,,27 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",12.
 Abdihamid NUR,USA,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",13.
 Abdihamid NUR,USA,,24 JUL 2022,"Hayward Field, Eugene, OR (USA)",11.
@@ -1627,6 +1772,7 @@ Abdihamid NUR,USA,,,,
 Abdihamid NUR,USA,,,,
 Abdihamid NUR,USA,,09 JUL 2023,"Hayward Field, Eugene, OR (USA)",1.
 Abdihamid NUR,USA,,11 MAR 2022,"CrossPlex Athletic Facility, Birmingham, AL (USA) (i)",1.
+Abdihamid NUR,USA,,,,
 Abdihamid NUR,USA,,,,
 Abdihamid NUR,USA,,,,
 Abdihamid NUR,USA,,,,
@@ -1660,7 +1806,9 @@ Jonas RAESS,SUI,1153,17 MAY 2024,"Drake Stadium, Los Angeles, CA (USA)",9.
 Jonas RAESS,SUI,1097,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",16.
 Jonas RAESS,SUI,1118,22 JUN 2024,"LAZ Wien, Wien (AUT)",15.
 Jonas RAESS,SUI,1045,28 JUN 2024,"Stadion Deutweg, Winterthur (SUI)",1.
+Jonas RAESS,SUI,1016,07 AUG 2024,"Stade de France, Paris (FRA)",12.
 Jonas RAESS,SUI,1142,26 JAN 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",15.
+Jonas RAESS,SUI,,07 AUG 2024,"Stade de France, Paris (FRA)",25.
 Jonas RAESS,SUI,,03 AUG 2021,"National Stadium, Tokyo (JPN)",25.
 Jonas RAESS,SUI,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",22.
 Jonas RAESS,SUI,,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",16.
@@ -1670,6 +1818,7 @@ Jonas RAESS,SUI,,13 JUL 2019,Napoli (ITA),1.
 Jonas RAESS,SUI,,11 JUL 2019,Napoli (ITA),5.
 Jonas RAESS,SUI,,28 AUG 2017,"Taipei Municipal Stadium, Taipei City (TPE)",8.
 Jonas RAESS,SUI,,26 AUG 2017,"Taipei Municipal Stadium, Taipei City (TPE)",2.
+Jonas RAESS,SUI,,07 AUG 2024,"Stade de France, Paris (FRA)",25.
 Jonas RAESS,SUI,,03 AUG 2021,"National Stadium, Tokyo (JPN)",25.
 Jonas RAESS,SUI,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",22.
 Jonas RAESS,SUI,,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",16.
@@ -1707,6 +1856,7 @@ Jonas RAESS,SUI,,,,
 Jonas RAESS,SUI,,,,
 Jonas RAESS,SUI,,,,
 Jonas RAESS,SUI,,,,
+Jonas RAESS,SUI,,,,
 Egide NTAKARUTIMANA,BDI,1207,06 JUL 2024,"Parc des Sports, Maisons-Laffitte (FRA)",
 Egide NTAKARUTIMANA,BDI,1207,06 JUL 2024,"Parc des Sports, Maisons-Laffitte (FRA)",
 Egide NTAKARUTIMANA,BDI,1111,03 SEP 2021,"Stadio San Cassiano, Alba (ITA)",
@@ -1718,10 +1868,14 @@ Egide NTAKARUTIMANA,BDI,1195,02 JUN 2024,"Polisportivo Comunale, San Vito al Tag
 Egide NTAKARUTIMANA,BDI,1166,15 JUN 2024,"Stadion De Veen, Heusden-Zolder (BEL)",2.
 Egide NTAKARUTIMANA,BDI,0,22 JUN 2024,"LAZ Wien, Wien (AUT)",
 Egide NTAKARUTIMANA,BDI,1207,06 JUL 2024,"Parc des Sports, Maisons-Laffitte (FRA)",1.
+Egide NTAKARUTIMANA,BDI,962,07 AUG 2024,"Stade de France, Paris (FRA)",10.
+Egide NTAKARUTIMANA,BDI,,07 AUG 2024,"Stade de France, Paris (FRA)",33.
 Egide NTAKARUTIMANA,BDI,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",21.
+Egide NTAKARUTIMANA,BDI,,07 AUG 2024,"Stade de France, Paris (FRA)",33.
 Egide NTAKARUTIMANA,BDI,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",21.
 Egide NTAKARUTIMANA,BDI,1207,06 JUL 2024,"Parc des Sports, Maisons-Laffitte (FRA)",
 Egide NTAKARUTIMANA,BDI,1207,06 JUL 2024,"Parc des Sports, Maisons-Laffitte (FRA)",
+Egide NTAKARUTIMANA,BDI,,,,
 Egide NTAKARUTIMANA,BDI,,,,
 Egide NTAKARUTIMANA,BDI,,,,
 Egide NTAKARUTIMANA,BDI,,,,
@@ -1741,16 +1895,23 @@ Isaac KIMELI,BEL,1133,17 JUL 2021,"VITA Atletiek, Ninove (BEL)",
 Isaac KIMELI,BEL,1192,02 JUN 2022,"Stade des Grands Pêchers, Montreuil (FRA)",
 Isaac KIMELI,BEL,1147,17 JUN 2023,"LAZ Wien, Wien (AUT)",
 Isaac KIMELI,BEL,1222,15 MAY 2024,"Olympiastadion, Stockholm (SWE)",
+Isaac KIMELI,BEL,,10 AUG 2024,"Stade de France, Paris (FRA)",8.
 Isaac KIMELI,BEL,,06 SEP 2019,"Boudewijnstadion, Bruxelles (BEL)",1.
 Isaac KIMELI,BEL,,11 JUL 2015,"Kadrioru staadion, Tallinn (EST)",2.
 Isaac KIMELI,BEL,,29 JUL 2023,"Sport Vlaanderen Brugge Julien Saelens, Brugge (BEL)",1.
 Isaac KIMELI,BEL,1222,15 MAY 2024,"Olympiastadion, Stockholm (SWE)",2.
+Isaac KIMELI,BEL,1026,07 AUG 2024,"Stade de France, Paris (FRA)",3.
+Isaac KIMELI,BEL,1144,10 AUG 2024,"Stade de France, Paris (FRA)",8.
+Isaac KIMELI,BEL,,10 AUG 2024,"Stade de France, Paris (FRA)",8.
+Isaac KIMELI,BEL,,07 AUG 2024,"Stade de France, Paris (FRA)",3.
 Isaac KIMELI,BEL,,03 AUG 2021,"National Stadium, Tokyo (JPN)",32.
 Isaac KIMELI,BEL,,30 SEP 2019,"Khalifa International Stadium, Doha (QAT)",14.
 Isaac KIMELI,BEL,,27 SEP 2019,"Khalifa International Stadium, Doha (QAT)",6.
 Isaac KIMELI,BEL,,16 AUG 2022,"Olympiastadion, München (GER)",11.
 Isaac KIMELI,BEL,,11 AUG 2018,"Olympiastadion, Berlin (GER)",
 Isaac KIMELI,BEL,,11 JUL 2015,"Kadrioru staadion, Tallinn (EST)",2.
+Isaac KIMELI,BEL,,10 AUG 2024,"Stade de France, Paris (FRA)",8.
+Isaac KIMELI,BEL,,07 AUG 2024,"Stade de France, Paris (FRA)",3.
 Isaac KIMELI,BEL,,03 AUG 2021,"National Stadium, Tokyo (JPN)",32.
 Isaac KIMELI,BEL,,30 SEP 2019,"Khalifa International Stadium, Doha (QAT)",14.
 Isaac KIMELI,BEL,,27 SEP 2019,"Khalifa International Stadium, Doha (QAT)",6.
@@ -1767,9 +1928,12 @@ Isaac KIMELI,BEL,,,,
 Isaac KIMELI,BEL,,,,
 Isaac KIMELI,BEL,,,,
 Isaac KIMELI,BEL,,,,
+Isaac KIMELI,BEL,,10 AUG 2024,"Stade de France, Paris (FRA)",8.
 Isaac KIMELI,BEL,,06 SEP 2019,"Boudewijnstadion, Bruxelles (BEL)",1.
 Isaac KIMELI,BEL,,11 JUL 2015,"Kadrioru staadion, Tallinn (EST)",2.
 Isaac KIMELI,BEL,,29 JUL 2023,"Sport Vlaanderen Brugge Julien Saelens, Brugge (BEL)",1.
+Isaac KIMELI,BEL,,,,
+Isaac KIMELI,BEL,,,,
 Isaac KIMELI,BEL,,,,
 Adel MECHAAL,ESP,1188,16 JUN 2022,"Bislett Stadion, Oslo (NOR)",
 Adel MECHAAL,ESP,1158,30 APR 2024,"Estadio Iberoamericano, Huelva (ESP)",
@@ -1790,12 +1954,15 @@ Adel MECHAAL,ESP,1158,30 APR 2024,"Estadio Iberoamericano, Huelva (ESP)",1.
 Adel MECHAAL,ESP,0,22 MAY 2024,"Estadio Enrique Lopez Cuenca, Nerja (ESP)",
 Adel MECHAAL,ESP,1128,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",4.
 Adel MECHAAL,ESP,1121,28 JUN 2024,"Estadi Olímpic Camilo Cano, La Nucia (ESP)",2.
+Adel MECHAAL,ESP,0,07 AUG 2024,"Stade de France, Paris (FRA)",
+Adel MECHAAL,ESP,,07 AUG 2024,"Stade de France, Paris (FRA)",40.
 Adel MECHAAL,ESP,,17 AUG 2016,"Estádio Olímpico, Rio de Janeiro (BRA)",17.
 Adel MECHAAL,ESP,,21 JUL 2022,"Hayward Field, Eugene, OR (USA)",22.
 Adel MECHAAL,ESP,,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",4.
 Adel MECHAAL,ESP,,16 AUG 2022,"Olympiastadion, München (GER)",14.
 Adel MECHAAL,ESP,,11 AUG 2018,"Olympiastadion, Berlin (GER)",
 Adel MECHAAL,ESP,,10 JUL 2016,"Olympisch Stadion, Amsterdam (NED)",2.
+Adel MECHAAL,ESP,,07 AUG 2024,"Stade de France, Paris (FRA)",40.
 Adel MECHAAL,ESP,,17 AUG 2016,"Estádio Olímpico, Rio de Janeiro (BRA)",17.
 Adel MECHAAL,ESP,,21 JUL 2022,"Hayward Field, Eugene, OR (USA)",22.
 Adel MECHAAL,ESP,,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",4.
@@ -1817,6 +1984,7 @@ Adel MECHAAL,ESP,,10 JUL 2016,"Olympisch Stadion, Amsterdam (NED)",2.
 Adel MECHAAL,ESP,,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",4.
 Adel MECHAAL,ESP,,22 JUL 2017,Barcelona (ESP),1.
 Adel MECHAAL,ESP,,01 AUG 2015,Castellón (ESP),1.
+Adel MECHAAL,ESP,,,,
 Adel MECHAAL,ESP,,,,
 Adel MECHAAL,ESP,,,,
 Adel MECHAAL,ESP,,,,
@@ -1913,15 +2081,23 @@ John HEYMANS,BEL,1250,26 JAN 2024,"Boston Univ. Track & Tennis Center, Boston, M
 John HEYMANS,BEL,1250,26 JAN 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
 John HEYMANS,BEL,996,12 MAY 2024,"Atletiekarena Gaston Roelants, Kessel-Lo (BEL)",1.
 John HEYMANS,BEL,1116,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",10.
+John HEYMANS,BEL,972,07 AUG 2024,"Stade de France, Paris (FRA)",3.
+John HEYMANS,BEL,1140,10 AUG 2024,"Stade de France, Paris (FRA)",11.
 John HEYMANS,BEL,1250,26 JAN 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",5.
+John HEYMANS,BEL,,10 AUG 2024,"Stade de France, Paris (FRA)",11.
+John HEYMANS,BEL,,07 AUG 2024,"Stade de France, Paris (FRA)",12.
 John HEYMANS,BEL,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",26.
 John HEYMANS,BEL,,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",10.
+John HEYMANS,BEL,,10 AUG 2024,"Stade de France, Paris (FRA)",11.
+John HEYMANS,BEL,,07 AUG 2024,"Stade de France, Paris (FRA)",12.
 John HEYMANS,BEL,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",26.
 John HEYMANS,BEL,,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",10.
 John HEYMANS,BEL,1250,26 JAN 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
 John HEYMANS,BEL,1250,26 JAN 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
 John HEYMANS,BEL,1250,26 JAN 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
 John HEYMANS,BEL,1250,26 JAN 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
+John HEYMANS,BEL,,,,
+John HEYMANS,BEL,,,,
 John HEYMANS,BEL,,,,
 John HEYMANS,BEL,,,,
 John HEYMANS,BEL,,,,
@@ -1943,6 +2119,10 @@ Oscar CHELIMO,UGA,,14 JUL 2018,"Ratinan Stadion, Tampere (FIN)",7.
 Oscar CHELIMO,UGA,,30 AUG 2019,"Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",5.
 Oscar CHELIMO,UGA,1230,30 MAY 2024,"Bislett Stadion, Oslo (NOR)",10.
 Oscar CHELIMO,UGA,1213,22 JUN 2024,"LAZ Wien, Wien (AUT)",1.
+Oscar CHELIMO,UGA,1025,07 AUG 2024,"Stade de France, Paris (FRA)",5.
+Oscar CHELIMO,UGA,1097,10 AUG 2024,"Stade de France, Paris (FRA)",20.
+Oscar CHELIMO,UGA,,10 AUG 2024,"Stade de France, Paris (FRA)",20.
+Oscar CHELIMO,UGA,,07 AUG 2024,"Stade de France, Paris (FRA)",5.
 Oscar CHELIMO,UGA,,06 AUG 2021,"National Stadium, Tokyo (JPN)",16.
 Oscar CHELIMO,UGA,,03 AUG 2021,"National Stadium, Tokyo (JPN)",14.
 Oscar CHELIMO,UGA,,27 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",
@@ -1953,6 +2133,8 @@ Oscar CHELIMO,UGA,,27 SEP 2019,"Khalifa International Stadium, Doha (QAT)",28.
 Oscar CHELIMO,UGA,,30 AUG 2019,"Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",5.
 Oscar CHELIMO,UGA,,19 APR 2019,Abidjan (CIV),6.
 Oscar CHELIMO,UGA,,14 JUL 2018,"Ratinan Stadion, Tampere (FIN)",7.
+Oscar CHELIMO,UGA,,10 AUG 2024,"Stade de France, Paris (FRA)",20.
+Oscar CHELIMO,UGA,,07 AUG 2024,"Stade de France, Paris (FRA)",5.
 Oscar CHELIMO,UGA,,06 AUG 2021,"National Stadium, Tokyo (JPN)",16.
 Oscar CHELIMO,UGA,,03 AUG 2021,"National Stadium, Tokyo (JPN)",14.
 Oscar CHELIMO,UGA,,27 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",
@@ -1975,6 +2157,8 @@ Oscar CHELIMO,UGA,,,,
 Oscar CHELIMO,UGA,,24 JUL 2022,"Hayward Field, Eugene, OR (USA)",3.
 Oscar CHELIMO,UGA,,14 JUL 2018,"Ratinan Stadion, Tampere (FIN)",7.
 Oscar CHELIMO,UGA,,30 AUG 2019,"Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)",5.
+Oscar CHELIMO,UGA,,,,
+Oscar CHELIMO,UGA,,,,
 Oscar CHELIMO,UGA,,,,
 Oscar CHELIMO,UGA,,,,
 Olin HACKER,USA,1229,26 JAN 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
@@ -2091,8 +2275,11 @@ Benjamin FLANAGAN,CAN,1221,27 JAN 2023,"Boston Univ. Track & Tennis Center, Bost
 Benjamin FLANAGAN,CAN,1245,26 JAN 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
 Benjamin FLANAGAN,CAN,,27 JUL 2023,"McLeod Stadium, Langley (CAN)",1.
 Benjamin FLANAGAN,CAN,1104,27 JUN 2024,"Complexe Sportif Claude-Robillard, Montréal (CAN)",3.
+Benjamin FLANAGAN,CAN,1002,07 AUG 2024,"Stade de France, Paris (FRA)",17.
 Benjamin FLANAGAN,CAN,1245,26 JAN 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",5.
+Benjamin FLANAGAN,CAN,,07 AUG 2024,"Stade de France, Paris (FRA)",30.
 Benjamin FLANAGAN,CAN,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",23.
+Benjamin FLANAGAN,CAN,,07 AUG 2024,"Stade de France, Paris (FRA)",30.
 Benjamin FLANAGAN,CAN,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",23.
 Benjamin FLANAGAN,CAN,1245,26 JAN 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
 Benjamin FLANAGAN,CAN,1245,26 JAN 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
@@ -2111,6 +2298,7 @@ Benjamin FLANAGAN,CAN,,,,
 Benjamin FLANAGAN,CAN,,,,
 Benjamin FLANAGAN,CAN,,,,
 Benjamin FLANAGAN,CAN,,27 JUL 2023,"McLeod Stadium, Langley (CAN)",1.
+Benjamin FLANAGAN,CAN,,,,
 Benjamin FLANAGAN,CAN,,,,
 Benjamin FLANAGAN,CAN,,,,
 Magnus Tuv MYHRE,NOR,1175,15 JUN 2023,"Bislett Stadion, Oslo (NOR)",
@@ -2522,10 +2710,18 @@ Dawit SEARE,ERI,1025,22 MAR 2024,"University of Ghana Sports Stadium, Accra (GHA
 Dawit SEARE,ERI,1106,15 MAY 2024,"Olympiastadion, Stockholm (SWE)",7.
 Dawit SEARE,ERI,1167,25 MAY 2024,"Boudewijnstadion, Bruxelles (BEL)",8.
 Dawit SEARE,ERI,1181,22 JUN 2024,"LAZ Wien, Wien (AUT)",4.
+Dawit SEARE,ERI,1025,07 AUG 2024,"Stade de France, Paris (FRA)",7.
+Dawit SEARE,ERI,1097,10 AUG 2024,"Stade de France, Paris (FRA)",19.
+Dawit SEARE,ERI,,10 AUG 2024,"Stade de France, Paris (FRA)",19.
+Dawit SEARE,ERI,,07 AUG 2024,"Stade de France, Paris (FRA)",7.
 Dawit SEARE,ERI,,22 MAR 2024,"University of Ghana Sports Stadium, Accra (GHA)",9.
+Dawit SEARE,ERI,,10 AUG 2024,"Stade de France, Paris (FRA)",19.
+Dawit SEARE,ERI,,07 AUG 2024,"Stade de France, Paris (FRA)",7.
 Dawit SEARE,ERI,,22 MAR 2024,"University of Ghana Sports Stadium, Accra (GHA)",9.
 Dawit SEARE,ERI,1181,22 JUN 2024,"LAZ Wien, Wien (AUT)",
 Dawit SEARE,ERI,1181,22 JUN 2024,"LAZ Wien, Wien (AUT)",
+Dawit SEARE,ERI,,,,
+Dawit SEARE,ERI,,,,
 Dawit SEARE,ERI,,,,
 Dawit SEARE,ERI,,,,
 Dawit SEARE,ERI,,,,
@@ -2561,6 +2757,12 @@ Mohamed ABDILAAHI,GER,,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",26.
 Mohamed ABDILAAHI,GER,,10 JUL 2021,"Kadrioru staadion, Tallinn (EST)",1.
 Mohamed ABDILAAHI,GER,,13 JUL 2019,"Gunder Hägg Stadion, Gävle (SWE)",9.
 Mohamed ABDILAAHI,GER,,14 JUL 2018,"Ratinan Stadion, Tampere (FIN)",13.
+Mohamed ABDILAAHI,GER,,03 AUG 2021,"National Stadium, Tokyo (JPN)",31.
+Mohamed ABDILAAHI,GER,,21 JUL 2022,"Hayward Field, Eugene, OR (USA)",33.
+Mohamed ABDILAAHI,GER,,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",26.
+Mohamed ABDILAAHI,GER,,10 JUL 2021,"Kadrioru staadion, Tallinn (EST)",1.
+Mohamed ABDILAAHI,GER,,13 JUL 2019,"Gunder Hägg Stadion, Gävle (SWE)",9.
+Mohamed ABDILAAHI,GER,,14 JUL 2018,"Ratinan Stadion, Tampere (FIN)",13.
 Mohamed ABDILAAHI,GER,1198,06 MAY 2022,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",
 Mohamed ABDILAAHI,GER,1201,26 JAN 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
 Mohamed ABDILAAHI,GER,1201,26 JAN 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
@@ -2583,14 +2785,8 @@ Mohamed ABDILAAHI,GER,,,,
 Mohamed ABDILAAHI,GER,,,,
 Mohamed ABDILAAHI,GER,,,,
 Mohamed ABDILAAHI,GER,,,,
-Mohamed ABDILAAHI,GER,,03 AUG 2021,"National Stadium, Tokyo (JPN)",31.
-Mohamed ABDILAAHI,GER,,21 JUL 2022,"Hayward Field, Eugene, OR (USA)",33.
-Mohamed ABDILAAHI,GER,,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",26.
-Mohamed ABDILAAHI,GER,,10 JUL 2021,"Kadrioru staadion, Tallinn (EST)",1.
-Mohamed ABDILAAHI,GER,,13 JUL 2019,"Gunder Hägg Stadion, Gävle (SWE)",9.
-Mohamed ABDILAAHI,GER,,14 JUL 2018,"Ratinan Stadion, Tampere (FIN)",13.
 Hugo HAY,FRA,1200,15 JUL 2023,"Stadion De Veen, Heusden-Zolder (BEL)",
-Hugo HAY,FRA,1049,28 JUN 2024,"Stade Josette et Roger Mikulak, Angers (FRA)",
+Hugo HAY,FRA,1114,10 AUG 2024,"Stade de France, Paris (FRA)",
 Hugo HAY,FRA,934,19 JUN 2015,Carquefou (FRA),
 Hugo HAY,FRA,983,16 JUL 2016,Heusden-Zolder (BEL),
 Hugo HAY,FRA,1025,23 JUN 2017,Carquefou (FRA),
@@ -2600,7 +2796,7 @@ Hugo HAY,FRA,1111,29 AUG 2020,"Slottsskogsvallen, Göteborg (SWE)",
 Hugo HAY,FRA,1170,02 JUN 2021,"Slottsskogsvallen, Göteborg (SWE)",
 Hugo HAY,FRA,1165,02 JUN 2022,"Stade des Grands Pêchers, Montreuil (FRA)",
 Hugo HAY,FRA,1200,15 JUL 2023,"Stadion De Veen, Heusden-Zolder (BEL)",
-Hugo HAY,FRA,1049,28 JUN 2024,"Stade Josette et Roger Mikulak, Angers (FRA)",
+Hugo HAY,FRA,1114,10 AUG 2024,"Stade de France, Paris (FRA)",
 Hugo HAY,FRA,,29 MAY 2021,"Stadion Śląski, Chorzów (POL)",2.
 Hugo HAY,FRA,,10 AUG 2019,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",3.
 Hugo HAY,FRA,,13 JUL 2019,"Gunder Hägg Stadion, Gävle (SWE)",2.
@@ -2608,6 +2804,10 @@ Hugo HAY,FRA,,24 JUN 2022,"Stade Helitas, Caen (FRA)",1.
 Hugo HAY,FRA,,26 JUN 2021,"Stade Josette et Roger Mikulak, Angers (FRA)",1.
 Hugo HAY,FRA,,27 JUL 2019,St-Etienne (FRA),1.
 Hugo HAY,FRA,1049,28 JUN 2024,"Stade Josette et Roger Mikulak, Angers (FRA)",3.
+Hugo HAY,FRA,969,07 AUG 2024,"Stade de France, Paris (FRA)",7.
+Hugo HAY,FRA,1114,10 AUG 2024,"Stade de France, Paris (FRA)",16.
+Hugo HAY,FRA,,10 AUG 2024,"Stade de France, Paris (FRA)",16.
+Hugo HAY,FRA,,07 AUG 2024,"Stade de France, Paris (FRA)",16.
 Hugo HAY,FRA,,03 AUG 2021,"National Stadium, Tokyo (JPN)",19.
 Hugo HAY,FRA,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",27.
 Hugo HAY,FRA,,16 AUG 2022,"Olympiastadion, München (GER)",19.
@@ -2616,6 +2816,8 @@ Hugo HAY,FRA,,10 AUG 2019,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",3.
 Hugo HAY,FRA,,13 JUL 2019,"Gunder Hägg Stadion, Gävle (SWE)",2.
 Hugo HAY,FRA,,15 JUL 2017,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",5.
 Hugo HAY,FRA,,18 JUL 2015,"Ekängens Friidrottsarena, Eskilstuna (SWE)",6.
+Hugo HAY,FRA,,10 AUG 2024,"Stade de France, Paris (FRA)",16.
+Hugo HAY,FRA,,07 AUG 2024,"Stade de France, Paris (FRA)",16.
 Hugo HAY,FRA,,03 AUG 2021,"National Stadium, Tokyo (JPN)",19.
 Hugo HAY,FRA,,24 AUG 2023,"Nemzeti Atlétikai Központ, Budapest (HUN)",27.
 Hugo HAY,FRA,,16 AUG 2022,"Olympiastadion, München (GER)",19.
@@ -2625,7 +2827,7 @@ Hugo HAY,FRA,,13 JUL 2019,"Gunder Hägg Stadion, Gävle (SWE)",2.
 Hugo HAY,FRA,,15 JUL 2017,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",5.
 Hugo HAY,FRA,,18 JUL 2015,"Ekängens Friidrottsarena, Eskilstuna (SWE)",6.
 Hugo HAY,FRA,1200,15 JUL 2023,"Stadion De Veen, Heusden-Zolder (BEL)",
-Hugo HAY,FRA,1049,28 JUN 2024,"Stade Josette et Roger Mikulak, Angers (FRA)",
+Hugo HAY,FRA,1114,10 AUG 2024,"Stade de France, Paris (FRA)",
 Hugo HAY,FRA,,,,
 Hugo HAY,FRA,,,,
 Hugo HAY,FRA,,,,
@@ -2642,6 +2844,8 @@ Hugo HAY,FRA,,13 JUL 2019,"Gunder Hägg Stadion, Gävle (SWE)",2.
 Hugo HAY,FRA,,24 JUN 2022,"Stade Helitas, Caen (FRA)",1.
 Hugo HAY,FRA,,26 JUN 2021,"Stade Josette et Roger Mikulak, Angers (FRA)",1.
 Hugo HAY,FRA,,27 JUL 2019,St-Etienne (FRA),1.
+Hugo HAY,FRA,,,,
+Hugo HAY,FRA,,,,
 Hugo HAY,FRA,,,,
 Matthew RAMSDEN,AUS,1149,29 AUG 2020,"Slottsskogsvallen, Göteborg (SWE)",
 Matthew RAMSDEN,AUS,1147,15 FEB 2024,"Lakeside Stadium, Melbourne (AUS)",
@@ -2652,11 +2856,11 @@ Matthew RAMSDEN,AUS,988,28 OCT 2018,Perth (AUS),
 Matthew RAMSDEN,AUS,1149,29 AUG 2020,"Slottsskogsvallen, Göteborg (SWE)",
 Matthew RAMSDEN,AUS,1139,02 MAR 2021,"Hagenauer Reserve, Box Hill, Melbourne (AUS)",
 Matthew RAMSDEN,AUS,1148,28 MAY 2022,"Hayward Field, Eugene, OR (USA)",
-Matthew RAMSDEN,AUS,1093,06 DEC 2023,"WA Sports Centre, Perth (AUS)",
+Matthew RAMSDEN,AUS,1093,06 DEC 2023,"WA Athletics Stadium, Perth (AUS)",
 Matthew RAMSDEN,AUS,1147,15 FEB 2024,"Lakeside Stadium, Melbourne (AUS)",
 Matthew RAMSDEN,AUS,,14 APR 2024,"SA Athletic Stadium, Adelaide (AUS)",1.
 Matthew RAMSDEN,AUS,,02 APR 2022,"SOPAC, Sydney (AUS)",1.
-Matthew RAMSDEN,AUS,1000,20 JAN 2024,"WA Sports Centre, Perth (AUS)",1.
+Matthew RAMSDEN,AUS,1000,20 JAN 2024,"WA Athletics Stadium, Perth (AUS)",1.
 Matthew RAMSDEN,AUS,1147,15 FEB 2024,"Lakeside Stadium, Melbourne (AUS)",2.
 Matthew RAMSDEN,AUS,1069,14 APR 2024,"SA Athletic Stadium, Adelaide (AUS)",1.
 Matthew RAMSDEN,AUS,1114,20 APR 2024,"Egret Stadium, Xiamen (CHN)",18.
@@ -2795,7 +2999,13 @@ Thomas FAFARD,CAN,,21 JUL 2017,Trujillo (PER),2.
 Thomas FAFARD,CAN,1127,19 MAY 2024,"Bungertstadion, Rehlingen (GER)",1.
 Thomas FAFARD,CAN,1191,25 MAY 2024,"Boudewijnstadion, Bruxelles (BEL)",2.
 Thomas FAFARD,CAN,1142,27 JUN 2024,"Complexe Sportif Claude-Robillard, Montréal (CAN)",2.
+Thomas FAFARD,CAN,969,07 AUG 2024,"Stade de France, Paris (FRA)",8.
+Thomas FAFARD,CAN,1034,10 AUG 2024,"Stade de France, Paris (FRA)",22.
+Thomas FAFARD,CAN,,10 AUG 2024,"Stade de France, Paris (FRA)",22.
+Thomas FAFARD,CAN,,07 AUG 2024,"Stade de France, Paris (FRA)",17.
 Thomas FAFARD,CAN,,21 JUL 2017,Trujillo (PER),2.
+Thomas FAFARD,CAN,,10 AUG 2024,"Stade de France, Paris (FRA)",22.
+Thomas FAFARD,CAN,,07 AUG 2024,"Stade de France, Paris (FRA)",17.
 Thomas FAFARD,CAN,,21 JUL 2017,Trujillo (PER),2.
 Thomas FAFARD,CAN,1191,25 MAY 2024,"Boudewijnstadion, Bruxelles (BEL)",
 Thomas FAFARD,CAN,1092,30 JAN 2022,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
@@ -2817,6 +3027,8 @@ Thomas FAFARD,CAN,,21 JUL 2017,Trujillo (PER),2.
 Thomas FAFARD,CAN,,,,
 Thomas FAFARD,CAN,,,,
 Thomas FAFARD,CAN,,,,
+Thomas FAFARD,CAN,,,,
+Thomas FAFARD,CAN,,,,
 Daniel Simiu EBENYO,KEN,1228,02 SEP 2022,"Boudewijnstadion, Bruxelles (BEL)",
 Daniel Simiu EBENYO,KEN,1152,21 AUG 2019,"Nyayo National Stadium, Nairobi (KEN)",
 Daniel Simiu EBENYO,KEN,1060,03 OCT 2020,"Nyayo National Stadium, Nairobi (KEN)",
@@ -2830,6 +3042,9 @@ Daniel Simiu EBENYO,KEN,,21 AUG 2019,"Nyayo National Stadium, Nairobi (KEN)",1.
 Daniel Simiu EBENYO,KEN,,03 AUG 2021,"National Stadium, Tokyo (JPN)",22.
 Daniel Simiu EBENYO,KEN,,24 JUL 2022,"Hayward Field, Eugene, OR (USA)",10.
 Daniel Simiu EBENYO,KEN,,21 JUL 2022,"Hayward Field, Eugene, OR (USA)",6.
+Daniel Simiu EBENYO,KEN,,03 AUG 2021,"National Stadium, Tokyo (JPN)",22.
+Daniel Simiu EBENYO,KEN,,24 JUL 2022,"Hayward Field, Eugene, OR (USA)",10.
+Daniel Simiu EBENYO,KEN,,21 JUL 2022,"Hayward Field, Eugene, OR (USA)",6.
 Daniel Simiu EBENYO,KEN,1228,02 SEP 2022,"Boudewijnstadion, Bruxelles (BEL)",
 Daniel Simiu EBENYO,KEN,,,,
 Daniel Simiu EBENYO,KEN,,,,
@@ -2840,9 +3055,6 @@ Daniel Simiu EBENYO,KEN,,12 JUN 2022,"Cote d'Or National Sports Complex, St Pier
 Daniel Simiu EBENYO,KEN,,24 JUN 2023,"Nyayo National Stadium, Nairobi (KEN)",1.
 Daniel Simiu EBENYO,KEN,,28 APR 2022,"Moi International Sports Centre, Kasarani, Nairobi (KEN)",1.
 Daniel Simiu EBENYO,KEN,,21 AUG 2019,"Nyayo National Stadium, Nairobi (KEN)",1.
-Daniel Simiu EBENYO,KEN,,03 AUG 2021,"National Stadium, Tokyo (JPN)",22.
-Daniel Simiu EBENYO,KEN,,24 JUL 2022,"Hayward Field, Eugene, OR (USA)",10.
-Daniel Simiu EBENYO,KEN,,21 JUL 2022,"Hayward Field, Eugene, OR (USA)",6.
 Cooper TEARE,USA,1229,17 MAY 2024,"Drake Stadium, Los Angeles, CA (USA)",
 Cooper TEARE,USA,1229,17 MAY 2024,"Drake Stadium, Los Angeles, CA (USA)",
 Cooper TEARE,USA,1045,19 APR 2018,"Azusa, CA (USA)",
@@ -2976,6 +3188,9 @@ Santiago CATROFE,URU,1131,04 MAY 2024,"Stade Raymond Troussier, Decines (FRA)",3
 Santiago CATROFE,URU,1096,19 MAY 2024,"Bungertstadion, Rehlingen (GER)",8.
 Santiago CATROFE,URU,1188,15 JUN 2024,"Stadion De Veen, Heusden-Zolder (BEL)",1.
 Santiago CATROFE,URU,1173,22 JUN 2024,"LAZ Wien, Wien (AUT)",5.
+Santiago CATROFE,URU,1012,07 AUG 2024,"Stade de France, Paris (FRA)",14.
+Santiago CATROFE,URU,,07 AUG 2024,"Stade de France, Paris (FRA)",27.
+Santiago CATROFE,URU,,07 AUG 2024,"Stade de France, Paris (FRA)",27.
 Santiago CATROFE,URU,1188,15 JUN 2024,"Stadion De Veen, Heusden-Zolder (BEL)",
 Santiago CATROFE,URU,1188,15 JUN 2024,"Stadion De Veen, Heusden-Zolder (BEL)",
 Santiago CATROFE,URU,,,,
@@ -2983,6 +3198,7 @@ Santiago CATROFE,URU,,,,
 Santiago CATROFE,URU,,,,
 Santiago CATROFE,URU,,31 OCT 2023,Santiago de Chile (CHI),4.
 Santiago CATROFE,URU,,12 OCT 2022,Asunción (PAR),2.
+Santiago CATROFE,URU,,,,
 Santiago CATROFE,URU,,,,
 Santiago CATROFE,URU,,,,
 Santiago CATROFE,URU,,,,
@@ -3004,11 +3220,14 @@ Elzan BIBIĆ,SRB,1156,30 APR 2024,"Estadio Iberoamericano, Huelva (ESP)",2.
 Elzan BIBIĆ,SRB,1054,19 MAY 2024,"Bungertstadion, Rehlingen (GER)",9.
 Elzan BIBIĆ,SRB,1121,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",6.
 Elzan BIBIĆ,SRB,1061,15 JUN 2024,"Stadion De Veen, Heusden-Zolder (BEL)",12.
+Elzan BIBIĆ,SRB,952,07 AUG 2024,"Stade de France, Paris (FRA)",14.
+Elzan BIBIĆ,SRB,,07 AUG 2024,"Stade de France, Paris (FRA)",36.
 Elzan BIBIĆ,SRB,,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",6.
 Elzan BIBIĆ,SRB,,16 AUG 2022,"Olympiastadion, München (GER)",18.
 Elzan BIBIĆ,SRB,,13 JUL 2019,"Gunder Hägg Stadion, Gävle (SWE)",8.
 Elzan BIBIĆ,SRB,,14 JUL 2018,"Ratinan Stadion, Tampere (FIN)",8.
 Elzan BIBIĆ,SRB,,23 JUL 2016,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",8.
+Elzan BIBIĆ,SRB,,07 AUG 2024,"Stade de France, Paris (FRA)",36.
 Elzan BIBIĆ,SRB,,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",6.
 Elzan BIBIĆ,SRB,,16 AUG 2022,"Olympiastadion, München (GER)",18.
 Elzan BIBIĆ,SRB,,13 JUL 2019,"Gunder Hägg Stadion, Gävle (SWE)",8.
@@ -3027,6 +3246,7 @@ Elzan BIBIĆ,SRB,,14 JUL 2018,"Ratinan Stadion, Tampere (FIN)",8.
 Elzan BIBIĆ,SRB,,23 JUL 2016,"Zdzisław Krzyszkowiak Stadium, Bydgoszcz (POL)",8.
 Elzan BIBIĆ,SRB,,08 JUN 2024,"Stadio Olimpico, Roma (ITA)",6.
 Elzan BIBIĆ,SRB,,22 JUN 2023,"Stadion Śląski, Chorzów (POL)",1.
+Elzan BIBIĆ,SRB,,,,
 Elzan BIBIĆ,SRB,,,,
 Elzan BIBIĆ,SRB,,,,
 Elzan BIBIĆ,SRB,,,,
@@ -3503,7 +3723,6 @@ Célestin NDIKUMANA,BDI,1163,02 JUN 2024,"Polisportivo Comunale, San Vito al Tag
 Célestin NDIKUMANA,BDI,1127,22 JUN 2024,"LAZ Wien, Wien (AUT)",14.
 Célestin NDIKUMANA,BDI,1153,06 JUL 2024,"Parc des Sports, Maisons-Laffitte (FRA)",8.
 Célestin NDIKUMANA,BDI,,22 MAR 2024,"University of Ghana Sports Stadium, Accra (GHA)",6.
-Célestin NDIKUMANA,BDI,,22 MAR 2024,"University of Ghana Sports Stadium, Accra (GHA)",6.
 Célestin NDIKUMANA,BDI,1163,02 JUN 2024,"Polisportivo Comunale, San Vito al Tagliamento (ITA)",
 Célestin NDIKUMANA,BDI,1163,02 JUN 2024,"Polisportivo Comunale, San Vito al Tagliamento (ITA)",
 Célestin NDIKUMANA,BDI,,,,
@@ -3517,6 +3736,7 @@ Célestin NDIKUMANA,BDI,,,,
 Célestin NDIKUMANA,BDI,,,,
 Célestin NDIKUMANA,BDI,,,,
 Célestin NDIKUMANA,BDI,,,,
+Célestin NDIKUMANA,BDI,,22 MAR 2024,"University of Ghana Sports Stadium, Accra (GHA)",6.
 Florian BREMM,GER,1166,25 MAY 2024,"Boudewijnstadion, Bruxelles (BEL)",
 Florian BREMM,GER,1115,10 FEB 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
 Florian BREMM,GER,1166,25 MAY 2024,"Boudewijnstadion, Bruxelles (BEL)",
@@ -3912,8 +4132,6 @@ Gulveer SINGH,IND,1141,09 JUN 2024,"Lincoln HS, Portland, OR (USA)",2.
 Gulveer SINGH,IND,1086,27 JUN 2024,"Tau Devi Lal Stadium, Panchkula (IND)",1.
 Gulveer SINGH,IND,,04 OCT 2023,"HOC Stadium, Hangzhou (CHN)",4.
 Gulveer SINGH,IND,,16 JUL 2023,"Supachalasai National Stadium, Bangkok (THA)",3.
-Gulveer SINGH,IND,,04 OCT 2023,"HOC Stadium, Hangzhou (CHN)",4.
-Gulveer SINGH,IND,,16 JUL 2023,"Supachalasai National Stadium, Bangkok (THA)",3.
 Gulveer SINGH,IND,1141,09 JUN 2024,"Lincoln HS, Portland, OR (USA)",
 Gulveer SINGH,IND,1141,09 JUN 2024,"Lincoln HS, Portland, OR (USA)",
 Gulveer SINGH,IND,,,,
@@ -3927,6 +4145,8 @@ Gulveer SINGH,IND,,,,
 Gulveer SINGH,IND,,,,
 Gulveer SINGH,IND,,,,
 Gulveer SINGH,IND,,,,
+Gulveer SINGH,IND,,04 OCT 2023,"HOC Stadium, Hangzhou (CHN)",4.
+Gulveer SINGH,IND,,16 JUL 2023,"Supachalasai National Stadium, Bangkok (THA)",3.
 Keita SATOH,JPN,1227,26 JAN 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
 Keita SATOH,JPN,1227,26 JAN 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
 Keita SATOH,JPN,1227,26 JAN 2024,"Boston Univ. Track & Tennis Center, Boston, MA (USA) (i)",
