@@ -46,7 +46,7 @@ Sports predictions significantly influence areas like betting, sponsorship, and 
 ### Prerequisites
 
 - **Python 3.x** and the following libraries:
-  - `keras`, `json`, `csv`, `requests`, `BeautifulSoup`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
+  - `keras`, `json`, `csv`, `requests`, `BeautifulSoup`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `tweepy`, `re`, `transformers`, `sentencepiece`, `os`, `time`, `twikit`, `subprocess`
   
 ## Project Structure
 
@@ -54,10 +54,11 @@ The repository is organized as follows:
 
 ```ruby
 /data/             # Contains the datasets used in the project.
-/scripts/          # Scripts for web scraping, data processing, and model training.
-/notebooks/        # Jupyter notebooks for analysis and experimentation.
+/Part1/          # Jupyter notebook for the sentiment analysis and corresponding visualizations.
+/Part2/        # Jupyter notebooks for the feature anaylsis.
+/Web scrapping/        # Scripts for web scraping
 README.md          # The file you’re currently reading.
-requirements.txt   # List of dependencies needed to run the project.
+poster.pdf   # Project poster.
 ```
 
 ## Usage Instructions
@@ -67,7 +68,7 @@ requirements.txt   # List of dependencies needed to run the project.
 #### Part 1
 **Web Scraping Tweets**:
    ```ruby
-   python /Users/agathevianeyliaud/Desktop/UCD/Summer/Project/Project_maths_modelling/Sans titre/Web scrapping/Web Scrape Tweets.ipynb
+   python Web scrapping/Web Scrape Tweets.ipynb
    python Web scrapping/Web Scrape race results.ipynb
    ```
 
@@ -80,18 +81,24 @@ Load the Jupyter notebook in `/Part2/code/UCD_Project-part2.ipynb` to do the web
 
 ## Datasets
 
-### Tweet Data
+### Tweets
 
-- **Source**: Collected via web scraping using the `Twikit` Python package, which circumvents the need for API keys.
+- **Source**: Tweets collected from X via web scraping using the `Twikit` Python package, which circumvents the need for API keys. Filters set on 'recent' and 'top' performing Tweets.
 - **Content**: Includes 625 tweets mentioning the athletes, with fields such as tweet content, username, posting date, and the athlete's actual race time and rank.
 
 ### Performance Data
 
-- **Source**: The dataset comprises features from the top 100 athletes worldwide in the 5000m sprint, including past performances and simulated features (e.g., crowd cheering effect, environmental adaptation).
+- **Source**: Web scrapped from [World Athletics](https://worldathletics.org/).
+- **Content**: The dataset comprises features from the top 100 athletes worldwide in the 5000m sprint, including past performances.
+
+### Competition results
+
+- **Source**: Web scrapped from [World Athletics](https://worldathletics.org/results/olympic-games/2024/the-xxxiii-olympic-games-7153115/men/5000-metres/final/result).
+- **Content**: The dataset comprises the athlets name, time and rank from the men's Olympic 5k run.
 
 ### Data Processing and Analysis
 
-- **Sentiment Analysis**: Conducted using `Hugging Face`'s `nlptown/bert-base-multilingual-uncased-sentiment` model.
+- **Sentiment Analysis**: Conducted using multiple `Hugging Face`'s transformer models.
 - **AI Models**: Features from the performance dataset were analyzed using Linear Regression, Neural Networks, and Random Forest, with the latter yielding the best performance.
 
 ## Model and Analysis
@@ -99,7 +106,7 @@ Load the Jupyter notebook in `/Part2/code/UCD_Project-part2.ipynb` to do the web
 <h3><img src="https://img.freepik.com/vektoren-kostenlos/neues-twitter-logo-x-icon-design-2023_1017-45418.jpg?w=740" alt="X Logo" width="24" height="24"> Part 1: Sentiment analysis of the Tweets</h3>
 
 - **Data Collection**: Tweets were collected before the race using the athletes' names as keywords.
-- **Data Processing**: Sentiment analysis was conducted using the `nlptown/bert-base-multilingual-uncased-sentiment` model, classifying tweets into five sentiment categories.
+- **Data Processing**: Sentiment analysis was conducted using the `nlptown/bert-base-multilingual-uncased-sentiment` model, classifying tweets into five sentiment categories,  `cardiffnlp/twitter-roberta-base-sentiment` and `xlm-roberta-base` model, classifying tweets into three sentiment categories.
 
 <h3><span style="font-size: 24px;">&#128200;</span> Part 2: Feature analysis - past performances + simulated features</h3>
 
@@ -111,7 +118,7 @@ Load the Jupyter notebook in `/Part2/code/UCD_Project-part2.ipynb` to do the web
 
 ### Key Findings
 
-- **Sentiment Analysis**: Showed moderate correlations between tweet sentiment and race results. However, sentiment alone was not a reliable predictor.
+- **Sentiment Analysis**: `nlptown/bert-base-multilingual-uncased-sentiment` model performed best on the Tweets. Showed moderate correlations between tweet sentiment and race results. However, sentiment alone was not a reliable predictor.
 - **AI Models**: The Random Forest model outperformed others, demonstrating better predictive accuracy.
 
 ### Visualizations
