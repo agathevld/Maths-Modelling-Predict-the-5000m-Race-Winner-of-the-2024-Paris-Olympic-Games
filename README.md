@@ -7,7 +7,7 @@
 
 Sports predictions significantly influence areas like betting, sponsorship, and athlete training, with much of the research traditionally focused on team sports. This project shifts the focus to an individual sport by attempting to predict the results of the men's 5000m race at the 2024 Paris Olympics using two distinct approaches:
 
-1. **Sentiment-Based Ranking**: Utilizing Tweets about the athletes posted before the race.
+1. **Sentiment-Based Ranking**: Utilizing Tweets mentioning the athletes name posted before the race.
 2. **AI Models**: Employing race-related features to predict athletes' scores (time and position).
 
 ## Table of Contents
@@ -65,7 +65,8 @@ poster.pdf   # Project poster.
 
 ### Running the Project
 
-#### Part 1
+<h3><img src="https://img.freepik.com/vektoren-kostenlos/neues-twitter-logo-x-icon-design-2023_1017-45418.jpg?w=740" alt="X Logo" width="24" height="24"> Part 1: Sentiment analysis of the Tweets</h3>
+
 **Web Scraping Tweets**:
    ```ruby
    python Web scrapping/Web Scrape Tweets.ipynb
@@ -73,9 +74,9 @@ poster.pdf   # Project poster.
    ```
 
 **Jupyter Notebook**:
-Load the Jupyter notebook in `/Part1/Sentiment analysis.ipynb` to do the sentiment analyse and analyse the results.
+Load the Jupyter notebook in `/Part1/Sentiment analysis.ipynb` to extract the sentiment of the Tweets.
+<h3><span style="font-size: 24px;">&#128200;</span> Part 2: Feature analysis - past performances + simulated features</h3>
 
-#### Part 2
 **Jupyter Notebook**:
 Load the Jupyter notebook in `/Part2/code/UCD_Project-part2.ipynb` to do the webscraping, train the AI models and analyse the data and model outcomes.
 
@@ -83,7 +84,7 @@ Load the Jupyter notebook in `/Part2/code/UCD_Project-part2.ipynb` to do the web
 
 ### Tweets
 
-- **Source**: Tweets collected from X via web scraping using the `Twikit` Python package, which circumvents the need for API keys. Filters set on 'recent' and 'top' performing Tweets.
+- **Source**: Tweets collected from X via web scraping using the `Twikit` Python package, which circumvents the need for API keys. Filters set on **recent** and **top** performing Tweets.
 - **Content**: Includes 625 tweets mentioning the athletes, with fields such as tweet content, username, posting date, and the athlete's actual race time and rank.
 
 ### Performance Data
@@ -96,10 +97,6 @@ Load the Jupyter notebook in `/Part2/code/UCD_Project-part2.ipynb` to do the web
 - **Source**: Web scrapped from [World Athletics](https://worldathletics.org/results/olympic-games/2024/the-xxxiii-olympic-games-7153115/men/5000-metres/final/result).
 - **Content**: The dataset comprises the athlets name, time and rank from the men's Olympic 5k run.
 
-### Data Processing and Analysis
-
-- **Sentiment Analysis**: Conducted using multiple `Hugging Face`'s transformer models.
-- **AI Models**: Features from the performance dataset were analyzed using Linear Regression, Neural Networks, and Random Forest, with the latter yielding the best performance.
 
 ## Model and Analysis
 
@@ -112,7 +109,7 @@ Load the Jupyter notebook in `/Part2/code/UCD_Project-part2.ipynb` to do the web
 
 - **Data Collection**: Historical data of top athletes' performances was combined with simulated race features.
 - **Data Simulation**: Monte Carlo techniques were employed to simulate variables like crowd cheering effect.
-- **Data Analysis and Visualization**: Multiple AI models were trained and evaluated using metrics such as MAE, MSE, and RMSE.
+- **Data Analysis and Visualization**: Features from the performance dataset were analyzed using Linear Regression, Neural Networks, and Random Forest and evaluated using metrics such as MAE, MSE, and RMSE.
 
 ## Results
 
