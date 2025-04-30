@@ -145,7 +145,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 For inquiries or collaboration, please reach out to:
 
 - **Lea Sauer**: lea.sauer@ucdconnect.ie
-- **Agathe Vianey-Liaud**: agathe.vianey-liaud@ucdconnect.ie
+- **Agathe Vianey-Liaud**: agathe.vl@hotmail.com
 
 ## Acknowledgements
 
